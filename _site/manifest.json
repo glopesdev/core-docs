@@ -1,0 +1,3091 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/gonca/Documents/Projects/scratchpad/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.ArrayConvert.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.ArrayConvert.html",
+          "hash": "p1+DRF/yjO3nNNREBbOJ432XhrC7QekBkAeVIwXlE0E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.BinaryCombinator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.BinaryCombinator.html",
+          "hash": "3hdKjrzjQCxRAv2c4nAxCMgfu5rliB4jVK+SWUtczZo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Combinator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Combinator-1.html",
+          "hash": "kveidFzK7FWlQqMtHvCZYShIwB5cqvUTRZd90zxH0x8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Combinator-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Combinator-2.html",
+          "hash": "ZZccYYcmSnkbuuMvT1HSm9OVl3R2P/MAtxudlFqsgfg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Combinator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Combinator.html",
+          "hash": "C9+3k3sGuZtM/x4yzhSiQJ+HB6K4ImrIK9y1zNI2BcU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.CombinatorAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.CombinatorAttribute.html",
+          "hash": "T5vE8r3hnu7vpuUecGRXWuaEi4sO0gkHuSBPcJBgB4A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.DirectedGraph-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.DirectedGraph-2.html",
+          "hash": "bJ/PthbanBBbooNJbHLwA4DkJz2+APBzfU+O+Fp3xlM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.DirectedGraphDescriptor-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.DirectedGraphDescriptor-2.html",
+          "hash": "oshDbnXZ3TuYS2XlgszhE5z0U5+jC08GE0m97M27ZkU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.DirectedGraphExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.DirectedGraphExtensions.html",
+          "hash": "AtY1cj5zY5HX98s5cFdoj41pNCnu8P+4gIf/aeD5ETU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.Edge-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.Edge-2.html",
+          "hash": "hpZa4FH31WxbDio/V27v8S8dWIxI+uDBjLWf9Yj67yM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.Edge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.Edge.html",
+          "hash": "dOTJQMFdqHQh6oydIQ337PoMSFR6T9uS4EBalIIKRw4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.EdgeCollection-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.EdgeCollection-2.html",
+          "hash": "pyguCU8sAdYYcPjHU1pueZN5O/4vnC3kzWVj3g2+ItQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.EdgeDescriptor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.EdgeDescriptor-1.html",
+          "hash": "Bd1nhD30rVVuRo/08w8Hz7TrZedgXRtYJP3RtKekSx0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.Node-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.Node-2.html",
+          "hash": "5zYGa5FnhYqwEjou7ifs4LpVY6mthPZ4SY1EWVEDcuA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Dag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Dag.html",
+          "hash": "SQAyi3zWlDOM12ACmBI1PN3PgkTSvyPU868PxgQ7h5o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.DesignTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.DesignTypes.html",
+          "hash": "Eh7clE9oa+15827rnMvk/q9jSS6zFU/zIMnam7f+VW0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.ElementCategory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.ElementCategory.html",
+          "hash": "1zrt26Ov12HVDGa8YxsdEDkeh5lI7S/LXd2cdUBzzHQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.ExpressionHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.ExpressionHelper.html",
+          "hash": "mcL7dCB6ENcgbgYnpwjv2zRHij/G3uxkA2gOgjQMH7o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.AddBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.AddBuilder.html",
+          "hash": "4yHi6Z70rpFFq8D4cMIcd8PZyv935MUjKFP2xa3pw+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.AsyncSubjectBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.AsyncSubjectBuilder-1.html",
+          "hash": "1nu7vSZ8z91OWImbxtcp5xR+vIEGLlvd5Tk9dv+dCk0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.AsyncSubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.AsyncSubjectBuilder.html",
+          "hash": "tnGr3lOpiwKAAfOL7yfe5jP1Bro4dX+6upp22JEP2bU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BehaviorSubjectBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BehaviorSubjectBuilder-1.html",
+          "hash": "2hKPtyQQswRwQCvE9sCeAI2owPjuYwejSMWBepVvBjc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BehaviorSubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BehaviorSubjectBuilder.html",
+          "hash": "+hp+i8rA+HDjNc0CnacTRttw2oBosMcj11mf2+a6O6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BinaryOperatorBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BinaryOperatorBuilder.html",
+          "hash": "8DkNgevzBA+xX1jPp+sAVDGLCtAgAekNaL5FHy1nW3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BitwiseAndBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BitwiseAndBuilder.html",
+          "hash": "j7b1XHsyohUffnfD0QGUxIw728D7cH6VuBM4uJDFeBo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BitwiseNotBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BitwiseNotBuilder.html",
+          "hash": "4nZo94SdbHFoSbli6r4+ESC3Jfjb9k1v3VE6au3G53c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BitwiseOrBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BitwiseOrBuilder.html",
+          "hash": "3BGvRK+9NdM29cno4UsHaFiYQCPI5WdrQItWnvP9TuA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.BooleanProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.BooleanProperty.html",
+          "hash": "Uca1qExVLuNonLyDViFIaXaH1TgIjO5sc+6o/XcCVnM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ByteProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ByteProperty.html",
+          "hash": "yD2fpiA3tZhvlOJwELqrcBjD8arT5cfxGJGrZt4v+U0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.CombinatorBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.CombinatorBuilder.html",
+          "hash": "+9Dro4v+a2Kl1fWEhQkNK8OdOJbXkPMkhXamGYFO1ls="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.CombinatorExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.CombinatorExpressionBuilder.html",
+          "hash": "1anLa2CjqNLcPI05q4GGviAOCqtgbd6qsp0EHXwDKKQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ConditionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ConditionBuilder.html",
+          "hash": "14iUEO8i2x/spAouNC9u3hwwggfXW0+7UkizCdeBNBY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.CreateAsyncBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.CreateAsyncBuilder.html",
+          "hash": "wcfA68+iZpUSiJvn/LDcxTxfPXwvtcewDB+36klRSs4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.CreateObservableBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.CreateObservableBuilder.html",
+          "hash": "gj3TU3Ea8DWt1ppelYeC2lZc2vWJ8zgKcIFRofQiMQ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.DateTimeOffsetProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.DateTimeOffsetProperty.html",
+          "hash": "bQmpNZ7v8nQLGcPXXerBBJdc07ehD0RXnzEKwRQa+yI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.DateTimeProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.DateTimeProperty.html",
+          "hash": "1zolZ2K5Cpy/dbfJ97EdotDm0KxrfbJlmJGDUyixSN4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.DeferBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.DeferBuilder.html",
+          "hash": "swrsytso0DAxOTFgoguMi1pIPH5tOEpU6/SDLJkb8vo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.DisableBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.DisableBuilder.html",
+          "hash": "Ghh0iC2w+37P1qoYhbhNQO8c0RDDSoXbOp6O5XzOFvE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.DivideBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.DivideBuilder.html",
+          "hash": "vUxm3oajnckj1ogqe7f1mS6M+ssK3OcD+wm6A/2q7ZQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.DoubleProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.DoubleProperty.html",
+          "hash": "1TcQYppOKe5mKdwX79OAOze2woRJyiT5/SNVQQgYtCo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.EqualBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.EqualBuilder.html",
+          "hash": "R0YEq/f7a+6Ire7zFuUm73MsGzehwSRRHlWlCe9ap4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExpressionBuilder.html",
+          "hash": "q3DUqRO2OMRndTIKZ64VFZZPj89+ZoVhzeeisQeynG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExpressionBuilderArgument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExpressionBuilderArgument.html",
+          "hash": "BwQv2dR7mBDrBiRVqEu4GAaTLk7lF5BZ481uirV8Qx0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExpressionBuilderArgumentDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExpressionBuilderArgumentDescriptor.html",
+          "hash": "Uqdy/7sifpzYZ2VryGOWRclOeQNQsiklZGUpshCjkSc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraph.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraph.html",
+          "hash": "YaDXvzk2VcoprDbI0s8R5LjVtGQOjVut370c6XemDXY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraphDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraphDescriptor.html",
+          "hash": "0Lfp2wh30iJs6TIXyytcFmYRii9HJy7fd6FLPscpeJI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraphExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraphExtensions.html",
+          "hash": "/zS/pQKE0oPuaqIiH8Ka7LT6oisAEM8FK7LD6lBCjk4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedDateTimeOffset-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedDateTimeOffset-1.html",
+          "hash": "yht3IeG+vsGZysej/C6y0FTk+6Egbp8X5dNZ8E5D9qs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedMapping.html",
+          "hash": "XxZfzoKXN5VZ2PwK+b+X+U8ySbcr6WRiZ8NESo7iVAw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedMappingBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedMappingBuilder.html",
+          "hash": "bSv+HSs+NfapxptaMGqOSLfeWAcmHwQ3twd1+OBUiyE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedMappingCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedMappingCollection.html",
+          "hash": "61/+GZBpkfXb6YCcWzh9IOmNwp3eV+dkYu+h4aBMzQ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedProperty-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedProperty-2.html",
+          "hash": "iDOvv3qke4J6aPEUuwLC8Q49PsW2qeO8KecBUTsZUgc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedProperty.html",
+          "hash": "J/SU38TNB3+i+/WYfkqncNX0ldqIVnN7jY+XSp2kHVM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ExternalizedTimeSpan-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ExternalizedTimeSpan-1.html",
+          "hash": "sMZjIT3qQhazJYsICnNpb3OtJBYfrpKC+sHjE11wdE8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.FloatProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.FloatProperty.html",
+          "hash": "2+skSfW6w/h4dJIS0pT2r/tJ3euzhEZi5Xm6YaOSawE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.FormatBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.FormatBuilder.html",
+          "hash": "l5lsOJX2s6R9CfTadh4f+zi/K3d0KjE1eKrRBmfQzZI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.GetValueOrDefaultBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.GetValueOrDefaultBuilder.html",
+          "hash": "IfVm2BCxohkWNbWxx4J0/xQbBmExzQq3dJmkopreA34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.GreaterThanBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.GreaterThanBuilder.html",
+          "hash": "vg0fLdx2BDsQO4tYlOd06AhfE63/TkURyNnJtK6AbY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.GreaterThanOrEqualBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.GreaterThanOrEqualBuilder.html",
+          "hash": "ybCXQGCauBWxV+Ka+XPiKgCg/Sk4hlfCqeGJ5D1Ch2w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.GroupWorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.GroupWorkflowBuilder.html",
+          "hash": "mkHjJGuoX30yCwhelITGSoH14JZG85nJCVOddyLrOxE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.IExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.IExpressionBuilder.html",
+          "hash": "r1hZdMUswdq6DqrhU+mqkFaOtawiCsocUmLUZcwHf6w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.IPropertyMappingBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.IPropertyMappingBuilder.html",
+          "hash": "MkHUnoemZS5XOqi8BWVBFcBG+zXlnHkxpZ3i4rm0thQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.IWorkflowExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.IWorkflowExpressionBuilder.html",
+          "hash": "0JtKVAuWpi09l8BAcPQMZEOXcTcFJ0+vTwUO7I07nUM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.IncludeWorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.IncludeWorkflowBuilder.html",
+          "hash": "DfeWnstLqCHLtz0U6uzs6tFlJoLhuxkMPs0SnvfOBkk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.IndexBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.IndexBuilder.html",
+          "hash": "EbCIXdxKak70MxaVHruUOQ1E7IvnwmaCnuNM2W8Qosw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.InputMappingBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.InputMappingBuilder.html",
+          "hash": "kr8EUDg7gjrJiq682MLH9YyqT6Pg1emiEa81H6Ql4fQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.InspectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.InspectBuilder.html",
+          "hash": "c6/7G4EC6VAtW02RpmBq66HXO9sVY6sUMhe9OV39kyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.Int64Property.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.Int64Property.html",
+          "hash": "7e1Mr8Bt1pRS0StZj9zB2/kq9n9FQ9rD/pFu5MOzQfY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.IntProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.IntProperty.html",
+          "hash": "s5f6aHYqWaWeCe0ylXF4eEmTwmJ8cFZ49bXW5Lm8CT4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.LeftShiftBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.LeftShiftBuilder.html",
+          "hash": "cS6cdb6pQ05d+zmfD5VBBh+fS//a80Dh4w04+GBfpf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.LessThanBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.LessThanBuilder.html",
+          "hash": "fHSExXC3F9LLq2tFzOp0t25sPJDryC524GamVA/XjB4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.LessThanOrEqualBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.LessThanOrEqualBuilder.html",
+          "hash": "qnxlLAbmRelqA6N6M4eFtfgJZeXH+4lWV8ymT3/ggG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.LogicalAndBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.LogicalAndBuilder.html",
+          "hash": "o1FkkG9x9mrRANWn6OFR7b7I9kNdcq7Zimtr+6tZ08I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.LogicalOrBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.LogicalOrBuilder.html",
+          "hash": "FzvVNkf9dXZjU2H0tJs+7d1GS8XpfW754LBvcsP/ls8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.MemberSelectorBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.MemberSelectorBuilder.html",
+          "hash": "9OODf4ihkxqzHinYmxgXQ8YN8dztfiF4dCz1SILrOCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ModBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ModBuilder.html",
+          "hash": "Pv3g5ZXsG702lzfLPD9gNy1XqWURcW+TWeZeaaLe9jM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.MulticastBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.MulticastBuilder.html",
+          "hash": "qM174TrjvRFSZ9yrjy9X4XL2m/E78kiOnoLesMB7/D8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.MulticastSubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.MulticastSubjectBuilder.html",
+          "hash": "yIftVRzA71mkn3q7SJcZxYscGF25wxHEwpQ3MBBdY2k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.MultiplyBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.MultiplyBuilder.html",
+          "hash": "0RKBp6SL6uPk9zgvpm2rsIW8nHKiqA6AwpjIqwQCcec="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.NegateBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.NegateBuilder.html",
+          "hash": "2GARQWCTW6ZkoGyFxui2rrSvw7rq+AyeGWtJSSU4e6g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.NestedWorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.NestedWorkflowBuilder.html",
+          "hash": "FqHG8iTC52gJinw/6s8aTI/+iBfozNujreWfNCI5dyM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.NotEqualBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.NotEqualBuilder.html",
+          "hash": "zJ3U54vmi/7xinnvNx2YLrI2ONSDpJbpdvAhaK++4yQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ParseBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ParseBuilder.html",
+          "hash": "aDCV2qYRjk72W5eEhTvVlPOYRDJPCUM0pIjwTNAvPPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PropertyMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PropertyMapping.html",
+          "hash": "zIw2DmnhILeU5VZg4qHYBCwINsPXhzsxSa+oMjXwLPA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PropertyMappingBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PropertyMappingBuilder.html",
+          "hash": "O3pwSsfbvIZpskTzQX83CeD3+ddAxhfLcBtT4YzTRqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PropertyMappingCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PropertyMappingCollection.html",
+          "hash": "1GD0T/fekpCJs29l93wGYn7rMSXFF34AsUXJ6KM0NB4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PropertySource-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PropertySource-2.html",
+          "hash": "MG57FSM3uXdLZXjb2E0UfRgH/EpGtIBeKyfqvewAfgQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PropertySource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PropertySource.html",
+          "hash": "64xGBm6y36yWEg4GDAcaQaP3X0sxeCYcBpTFfmeGbOg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PublishBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PublishBuilder.html",
+          "hash": "Ds1CxY4ucq086ZXBFuiYaohQV6tQgPGtopotwQ4EIIE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PublishSubjectBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PublishSubjectBuilder-1.html",
+          "hash": "/98w/yLLLhWYMKMPyJ15nnh13Fm496MPqndAEA5GIYg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.PublishSubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.PublishSubjectBuilder.html",
+          "hash": "p42vHUc1Uy2Dg4X1AzuIatKjYm1ZeixgfhlkksOgHYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ReplayBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ReplayBuilder.html",
+          "hash": "juZAakKFIx2eiIYCA4fy1jWhHqmr3eNa2EzNrgehSok="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ReplaySubjectBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ReplaySubjectBuilder-1.html",
+          "hash": "KcS4eBuAxo9qUHvXMACDP7TU8cGtkN0Ea0nN8p5xrBQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ReplaySubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ReplaySubjectBuilder.html",
+          "hash": "iHx4YTUEN+qfwHZwCywHGdsNifzG6dBFVpeRLQJYtUE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ResourceSubjectBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ResourceSubjectBuilder-1.html",
+          "hash": "6/emlJIxXZxKaHBABvP3/lTxjLXG3h2CMfZ4UazrhoA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ResourceSubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ResourceSubjectBuilder.html",
+          "hash": "qcxPXmUnM7fO2Dw3aEiY6JPqhbq9jp85ju3WuCUsSo8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.RightShiftBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.RightShiftBuilder.html",
+          "hash": "1GytZEkH9TK0PFEcuKcB+uDpSX7Jejoc227lJkLGk+M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ScanBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ScanBuilder.html",
+          "hash": "O5l5kAi3ycuHs4xcFEyrmxTgY9HKD/5+YvNPTSmbZdw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SelectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SelectBuilder.html",
+          "hash": "7e9RI5zMkSS5a9EsymS7VaWUVUgDsp94cqt5HT4txMU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SelectManyBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SelectManyBuilder.html",
+          "hash": "VXapzla4pi9qSCtWIk2Ujg66+3nfiQcanjUVRtCyvNA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SingleArgumentExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SingleArgumentExpressionBuilder.html",
+          "hash": "95Wm6Ev1kk6S5EgsDm2RZ1hxzON2cRkdbx3/gd1d32s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SingleArgumentWorkflowExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SingleArgumentWorkflowExpressionBuilder.html",
+          "hash": "10T+7b+5ncMidKKS5WVqbqPzSS4Ej9WMRyLT14oH8F8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SinkBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SinkBuilder.html",
+          "hash": "W5z5J5l08jIKJOp6Dk+KUdZMxEguD46eW7JSRNlEJV8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SkipWhileBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SkipWhileBuilder.html",
+          "hash": "geW/VdA6VLhUJLmo2VBH9uqFUnOvpCg7F8B/2g7gc3E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SourceBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SourceBuilder.html",
+          "hash": "zUDI4l+M6YBtATeU2M7IrP33eSS/sWSx0tTPvPxYYs8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.StringProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.StringProperty.html",
+          "hash": "x6HdyUECge/eRHHw29NytfAIXuywHmOOC+if4OLfDb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SubjectBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SubjectBuilder-1.html",
+          "hash": "YNWf7/skuBTlg2wc1BXzGRTYTeyLjvx5p6Xa0hRawng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SubjectBuilder.html",
+          "hash": "MxgVHjHEONY4TmaAUPFTb4/WKtxx1+dmudAqXFqhgB0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SubjectExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SubjectExpressionBuilder.html",
+          "hash": "CgQXpE0YPzDCWGFPLzxuT1aVMMeU4Nkhx7FPvh/G8ds="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SubscribeSubject-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SubscribeSubject-1.html",
+          "hash": "eyjhjVqZCekcX7Nad7SV1LnZNCeD/J6I93SJnSHkMMo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SubscribeSubjectBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SubscribeSubjectBuilder.html",
+          "hash": "ZDo6s0R7zDOHQHRT/uT4kiyOyuolCWSJ7WNdUqn5Q3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.SubtractBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.SubtractBuilder.html",
+          "hash": "jbGWcJBRA1OIeCttB9prggWnJA0N9Jy36/YiAiZtz8Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.TakeWhileBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.TakeWhileBuilder.html",
+          "hash": "ExwejSaPBggoZqrBQUXybcuPGwNVchzJQeL91MTDAL0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.TimeSpanProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.TimeSpanProperty.html",
+          "hash": "8LQ1dUHCDvuUbxmC6DCJrGnZl3UjvILYWzKVq9yGCLY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.TypeMapping-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.TypeMapping-1.html",
+          "hash": "uQpopzDQEeeWhNgKOrhfPi2g2YS3Lw5SfKxwm2+4qKU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.TypeMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.TypeMapping.html",
+          "hash": "S2z6XHAaBPeErknIGEoy2hQa0o2mCBXsgVPXZLymUiw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.UnitBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.UnitBuilder.html",
+          "hash": "sdptYQbKCfcazqM3Uq3RHG1Q1LO/iqv/P2zpbCkJthY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.UnknownTypeBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.UnknownTypeBuilder.html",
+          "hash": "AJ/sUOUx3gf/k3KaqkNtTJ7YCQ8XSZw3phMjPsAH2kU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.VariableArgumentExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.VariableArgumentExpressionBuilder.html",
+          "hash": "2u2kBOeAScMKb5KxmY7sBU2sxQgpsJkeRSUfk8K+wv4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.VisualizerBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.VisualizerBuilder.html",
+          "hash": "hPHA7n3mUUphLMPprsei26xXJDLXWiHMF3PsAkVxrS8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WindowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WindowBuilder.html",
+          "hash": "eYm8cO/EwYiPVqaIt+SzvZ1t431CvdRBBjqDtIvLqlU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WindowWorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WindowWorkflowBuilder.html",
+          "hash": "SEdXS6QNJui2Xnrr6NUa+LimPs5qPmLjrMWJ0MyI/L8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WorkflowExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WorkflowExpressionBuilder.html",
+          "hash": "zWvNtgJN27Ce4ZbD6ftjBDPkgm4xUG6XmI3tvxtbx84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WorkflowInputBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WorkflowInputBuilder-1.html",
+          "hash": "0JfJOxTGLU9uRJ18X+XWjyl4vz03xiWzJqLzi9VppJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WorkflowInputBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WorkflowInputBuilder.html",
+          "hash": "EsvA86bWBLx1qI2x7Vu0SK2a36d0MNEZzN79hK5NUHo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WorkflowOutputBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WorkflowOutputBuilder.html",
+          "hash": "pWRJZd2JKAeVTlc7dKTxGnBp2mEcF8tBU71uyCL7G9Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WorkflowProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WorkflowProperty-1.html",
+          "hash": "p+oSNTJtzE5gAnEZoCZXap9I1fIhMIGLAqvAGd5w1Hg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.WorkflowProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.WorkflowProperty.html",
+          "hash": "0B4u8cYWoau5xCszRu9ygnQTAXgaxF0hr5+lKqSIlsk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.XorBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.XorBuilder.html",
+          "hash": "GAzURdBe4cmfeUwBD5NdZX+jZ2XMF2iBOvT3I0Barww="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.ZeroArgumentExpressionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.ZeroArgumentExpressionBuilder.html",
+          "hash": "QgyPkyjWozo26G1S18GnHjja/uf1SEONOqe2jZOJVGQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Expressions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Expressions.html",
+          "hash": "div5EIbEsB3XrCnlkFVJy6nphG38wIzGYz345kSgeWs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.ExternalizableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.ExternalizableAttribute.html",
+          "hash": "REXkfKK4mDY3GYndP3N7jmBLhxqvBaRw3LIp84GpCqo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.FileNameFilterAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.FileNameFilterAttribute.html",
+          "hash": "ug/GFUPG+aF5KQEGNmjMnkNBBAnk4CqocHqsyazHQBg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.HighResolutionScheduler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.HighResolutionScheduler.html",
+          "hash": "e3BlvLyVHBSFPVob5C8MLE7+M4WHOzupY/5EfgBDHGQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.INamedElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.INamedElement.html",
+          "hash": "gc1xHYAiFNfoxX+7klEvdrY2BRhzHTD5MKWayQOWmn8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.MultidimensionalArrayConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.MultidimensionalArrayConverter.html",
+          "hash": "tAoT5pwwF19BlJBC2VjWOLOkXaRrL9eSIjXuPTLYaVI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.NumericRecordConverter.PropertyDescriptorWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.NumericRecordConverter.PropertyDescriptorWrapper.html",
+          "hash": "9DqkiVl291+f0iOJLtcSGMAJcXB+2rGPF+B4+Jb8HB8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.NumericRecordConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.NumericRecordConverter.html",
+          "hash": "P64UmyXXqgCd+Uc66rtbcetN0mM/8xDyjI9YFxEKZ3E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.ObservableCombinators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.ObservableCombinators.html",
+          "hash": "i4eRUpIhIsTH7CyuASfMKl1oAgHs9QD7xd6XkHoOEeM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.PrecisionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.PrecisionAttribute.html",
+          "hash": "RUR6lRj6Ccq2h2BgIrTiPjVFAm5gLAirT9+1bSrPBXU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Range-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Range-1.html",
+          "hash": "mPxBAq9YCxMmaehAqCu7WuvgptEgBljDVqYqFQbUHyE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Range.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Range.html",
+          "hash": "ODRrUla+Jvr9eLKR6CV8Qs1ZMCRzfEXEBBPZsrEWBSE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.RangeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.RangeAttribute.html",
+          "hash": "BUouG+D+bcaJXTQHKoM/fu59vMcwJQ0xKTcOZHoHtss="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Accumulate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Accumulate.html",
+          "hash": "P8nzFhQIJZQ/w7TmQLj3iNpusQ+c2hZlJdzwF4uxd+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.AccumulateBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.AccumulateBuilder.html",
+          "hash": "6YLX8BtCZkdVvWhhm835HTf3JZ2G3XN3Kctgxgwshbw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Amb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Amb.html",
+          "hash": "Lo8VkhVgxR4CHg+WpTBa4mNdjwhp5e6lMV55atOoLBU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Average.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Average.html",
+          "hash": "u6WdqMmj9N0MnmHOv1YATU+W+K6te5a/dzVDLlUiJdE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Buffer.html",
+          "hash": "Gi63umafbpZRRrIVtZyK09UU7/wHRPI9GpcYX87pOpc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Catch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Catch.html",
+          "hash": "NHFn18c3Pm9o4rlakvCjaImqwXMezBbxm/3rZdZTVZM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.CombineLatest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.CombineLatest.html",
+          "hash": "URMOXa2afcs41ZmTppM5aJ2uM66GTAVD9ij3XWiKCM0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.CombineTimestamp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.CombineTimestamp.html",
+          "hash": "0czrYvzzCAXNuQYYyE0t9+l1DnYB9kv6xk+aWPFZwAM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Concat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Concat.html",
+          "hash": "Wr2+KHwb0vCeplF+AFJwZBq33So05NLgTqCcp/dolIc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Count.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Count.html",
+          "hash": "g80Hf/kX/f9Y8i2kOE/efK0snWw6LGYmRH7Rtao1K6o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Delay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Delay.html",
+          "hash": "XcC3vbXZUURxibHBur6P3HO8ar4uRBKRxx7ExdPJvwc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.DelaySubscription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.DelaySubscription.html",
+          "hash": "WAbqCNxAyHqEphY9hXOkLMNiYMbErP9Sio5IPmcMf/Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Dematerialize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Dematerialize.html",
+          "hash": "KyBv9hxfLeMnYEE/pDsQk50GoXb2/RAQypWRHJsrXjQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Distinct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Distinct.html",
+          "hash": "pUtC5EBbPoMcJtX+8It+mhV3uOEfXRTiPXQOwj5SKIw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.DistinctBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.DistinctBy.html",
+          "hash": "9aLMy1vMGl3IoceEfLK3HqdV0TNjou4t+nJ9qPwgjLE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.DistinctByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.DistinctByBuilder.html",
+          "hash": "OG8uOcooG+piOW37NfgpLx1qvPs9CFstS4C0pgcqUoo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.DistinctUntilChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.DistinctUntilChanged.html",
+          "hash": "ya3RBUGUne0FjCY3D1+AgPYJHUdt8nhLrl/cOGMByRw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.DistinctUntilChangedBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.DistinctUntilChangedBy.html",
+          "hash": "4qx5tt+3XCcWkeOtbOku8qJaS1D28mBoSrQdOizaOIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.DistinctUntilChangedByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.DistinctUntilChangedByBuilder.html",
+          "hash": "uq1B+0o3J9oUJz+r0Iw1xX5doXOMsBheS/7PdBnydfQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ElementAccumulation-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ElementAccumulation-2.html",
+          "hash": "g1ddyIZk1i7Qw5heEc7j+6N7hZ2UhCifWqtbTGbpl8U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ElementCountWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ElementCountWindow.html",
+          "hash": "o0JYRjN3/49OgBH5dOhLV/dSCoUwgAQSRo0+gQpRt7s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ElementIndex-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ElementIndex-1.html",
+          "hash": "BBKn+WLLgPja77blT6PwvRHvQOejZcAjZiA0W69Yeac="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ElementIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ElementIndex.html",
+          "hash": "eovEjXA++OCAKF6jDVaE+gJqTp4jiyJkpDLdi/kPypk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.First.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.First.html",
+          "hash": "WOUjUgLqY2IFcqUQqilI7Wb0AvXE0hr5Q3ZRtMPUjr4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.FirstOrDefault.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.FirstOrDefault.html",
+          "hash": "ctyGisOnZlNQKx9XmZaT6ft9UY/2HIsio+AzmFIihNg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Gate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Gate.html",
+          "hash": "lYjS88Jf8fV3LGYztyQ8XJRWlgWqZWozJ+dD5EnZ7UU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.GateInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.GateInterval.html",
+          "hash": "BqoJk6f2mIBxdO13dk4CbH19IW42sLX70YNjlWp90+A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.GroupBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.GroupBy.html",
+          "hash": "O7N9ppTlJSD7jo6V6U9V8008lVyH9huwyNI6+L5qxG8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.GroupByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.GroupByBuilder.html",
+          "hash": "cv89do2RIc2akHH9yfep990tfEriT9OpVDYGWcp/oKo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.IgnoreElements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.IgnoreElements.html",
+          "hash": "SaIGkrFZoEGEbDv99ZvLIUurjzuzOs3Z/YgDjRqdOGg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Index.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Index.html",
+          "hash": "n9QuK0ihloIUJN8mPM4oWpIeX8OuJaJ/ivkkcU0BH5E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.IsEmpty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.IsEmpty.html",
+          "hash": "PFKN0++kdib3ukjyg7LTx7m8LUKpXZSDdZ2w00qW5H8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Last.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Last.html",
+          "hash": "yVYDNurS+hdGMCbTIrrX0GsN9EdO9Bsre3bjSNBZ6mM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.LastOrDefault.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.LastOrDefault.html",
+          "hash": "MjGrpya5d8AOebjDq5dnN9l1uLeB/flYG+eDKJ8ETQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Materialize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Materialize.html",
+          "hash": "B6Gi0TeG8jNu+At4X2T2IOdRcqODByuJz6tnXvWXeuI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Max.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Max.html",
+          "hash": "tgrs8xFGumC/5UBp3dYEvHa2n6/hSoPXgatKsr+Vhg8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.MaxBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.MaxBy.html",
+          "hash": "rFbUIK0YbOMnib7hdGIeTVmBBzSCWlQ5rdoLkIe1MNI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.MaxByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.MaxByBuilder.html",
+          "hash": "u3wCYSCY9h02O1zBW0Eg3zq0orqZdEIHA/rhaJLzMAA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Merge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Merge.html",
+          "hash": "0DCM/6m/MpsGHM+Ex4ZuUldxuZAJChPYVl3f8qmvufk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Min.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Min.html",
+          "hash": "HO+1eZw6cfuyrbwvBl1wEAI2nNg4rgouaVx/vJ61wEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.MinBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.MinBy.html",
+          "hash": "Wx6DCyKAOR+uiI+XdNEkNLGCIrBmyFKemTKe1hBb/kQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.MinByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.MinByBuilder.html",
+          "hash": "MlWvWE+pWPLcrR6rJ1bNA3U0st1Cl70V0h3FhwaniL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.OnErrorResumeNext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.OnErrorResumeNext.html",
+          "hash": "SYrF4x95RG3yu02OH0GAE1uaHasuxgOrbRr11/dix78="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.OrderBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.OrderBy.html",
+          "hash": "aMvAbvofYXSmAPARmrwAbkR15np2On3U3yQiqBS6Bu0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.OrderByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.OrderByBuilder.html",
+          "hash": "TGTpAFv/10MxB0yf4/5mH7rX9QK5TsJUC7O92rkbAAU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.OrderByDescending.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.OrderByDescending.html",
+          "hash": "jolISc3jkJkD8lgzy80ZyNQkIs+4+W/JjKTbtYFTW2s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.OrderByDescendingBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.OrderByDescendingBuilder.html",
+          "hash": "35sIgOcdM3CDf+baBFO4+4sUPDUB2AOIUEoupaaRzBM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Range.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Range.html",
+          "hash": "fA9i3xNxWpVgjk6UTidC3APlRvllZuCx0WsuYQFCrOo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Repeat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Repeat.html",
+          "hash": "PhWb8XaCGvzPK1FnYNKuQTeHDD8g2NX4S0/qoZr+82s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.RepeatCount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.RepeatCount.html",
+          "hash": "lzEs3Cs5WnzhF5UEp7GEFav7fx2w87CR+QCylInjbCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Retry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Retry.html",
+          "hash": "mTX0xMNM4zJ28gVNPdVqpSydyJtKqaxhPX2+SlIJuqc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.RetryCount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.RetryCount.html",
+          "hash": "+mb1NRB4X2XWxZGT/orX68442IJWCs8ch7x3Ch1Y2CQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Sample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Sample.html",
+          "hash": "+6ePwAaDiaR16R+pqTT3eX7lY/eKaksUqCeQD60COxs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.SampleInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.SampleInterval.html",
+          "hash": "j0NddbUgCFOwPxq2mGVnWcXUWgtWWyLKPdZ1tHVdgxI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.SequenceEqual.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.SequenceEqual.html",
+          "hash": "CwObAy43qpdku7qb5rwQLbv107UiRBIQZJpfwFvs6Qw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Skip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Skip.html",
+          "hash": "ZjNb1EWnvd65w8smevVF57WJpxoT7gV4yArjuObTlok="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.SkipLast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.SkipLast.html",
+          "hash": "89iMhnfQeDwV9F/lSek7EHyWLZ0akXkBK2vwEySJkxE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.SkipUntil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.SkipUntil.html",
+          "hash": "iVvDwrloPB++/ln/WpATDKWRYa5vv9tAxobQykPhXvo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Slice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Slice.html",
+          "hash": "mEpfJJtISbYAIsoFOWnxiLXkrldzINmqt76dhGSt0og="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.SubscribeWhen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.SubscribeWhen.html",
+          "hash": "eY72Wjzpbu5h/hVfyrxqWXalG0wUv9dFeza9LeI6uN8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Sum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Sum.html",
+          "hash": "XFC4zd8OOi3kYPBywQrv4HFInvYQ3nIk513s8KiRJ7M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Switch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Switch.html",
+          "hash": "NkuSLMBVSqqwRmji3Q/Bn82yXlCpZooFJ/AaywQUfEU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Synchronize.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Synchronize.html",
+          "hash": "O+HG/4oM4rwDmtoNwcgy37VFQV0Xpq+DMXEjomR3VIU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Take.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Take.html",
+          "hash": "ezz3uHfhWIKM7LYCmxDKEY8hvHZ0KP8avoxM52V/eHs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TakeLast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TakeLast.html",
+          "hash": "Eh7qY1pMnoSKov+zU4fMWuTvthr8je863ZlL6oEePkc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TakeUntil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TakeUntil.html",
+          "hash": "5od6oGOpkT4ZZEDA6ZbuoSxK5BLCMcIl3bQg7tfPnSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ThenBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ThenBy.html",
+          "hash": "2fLBIzVnI4v9TSSFDxOfsYOJWOIVmQeu8zD/uAZsrE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ThenByBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ThenByBuilder.html",
+          "hash": "707E4RAe9reSpm1W5R5xZXLSUBQYRtX+KKrUCvF39hs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ThenByDescending.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ThenByDescending.html",
+          "hash": "Ept6Aen6mmx2cHrhCxrKH+YM+Vajr3j1olabk6ZHH4o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ThenByDescendingBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ThenByDescendingBuilder.html",
+          "hash": "Td96mnNC5W6IXTlcQdJfE5QuAt8vDKBFpznZZVUu6vs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Throttle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Throttle.html",
+          "hash": "3PXR3DsTtJ2RBphP8xF42B1w3DyAU1A7xhij+zea38U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TimeInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TimeInterval.html",
+          "hash": "4o4nq/TEvKAJT0zScsetM4ULEUiIDS9T3EvR4+gUOxs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TimeSpanWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TimeSpanWindow.html",
+          "hash": "lHTnICFM2HsGXqUxyyAMie/nosy8fddVP8YoLxWp8BU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TimedGate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TimedGate.html",
+          "hash": "6H0F9PY3kTZ2PXu2/M/VFA8+qxlbQ/vEDGktFIo99uM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Timeout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Timeout.html",
+          "hash": "eKm2o0V/5hDlMwnOS1Vbam1cpztlDVbKI0wNWNeexRc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Timer.html",
+          "hash": "BNeETL2RwrSwJ5NFASDnDedVlm+UhbRfke40YjfDNQs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Timestamp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Timestamp.html",
+          "hash": "+j4gvRLEXDqtyun9H85yDEmzVLYoADGmf1guA+AhqNQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ToArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ToArray.html",
+          "hash": "cQagPoZfaC2cAd7n55SdV1YmeyFS2Q27lu6r/BqMWlU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ToDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ToDictionary.html",
+          "hash": "q09+N5Wudo7t+HuASlol+zVtr2lEelfv5hNTlsu+ivE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ToList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ToList.html",
+          "hash": "QET7T4oZghPNh55f6xVSRyPz2bg7pcqzb+E1bPV/8Ug="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.ToLookup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.ToLookup.html",
+          "hash": "ZaXzLRRTKNBdvRp20KYbFnwfpXzhYuATWsyZGIOYw44="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TriggeredBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TriggeredBuffer.html",
+          "hash": "iDNdozsUSKErVQXT/OdIYZvp1jH0eAMz9ZC23IDArPk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.TriggeredWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.TriggeredWindow.html",
+          "hash": "WA5VkZDwQQ/Z9UQlQ3soAlsh1/WnGf0ho+Pbzu7ekyU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.WithLatestFrom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.WithLatestFrom.html",
+          "hash": "jX4MINuAGfMmd+ffpgR0kDhhkaWfiFEC/CZBDvlHOHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.Zip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.Zip.html",
+          "hash": "UpTUNxu5TRSEaLiNrlOM7INbOSf6WkuzGapwfBqPktc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Reactive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Reactive.html",
+          "hash": "+G7QJ+4FU+6/qsDxQ2P/sRwuvS0543kfqeTOp2pnMbw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Sink-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Sink-1.html",
+          "hash": "FsoDd/qdkXLVWqWHQlR396zpdIPDamu+TNpvNiiS8yQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Sink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Sink.html",
+          "hash": "HZC2xeB5aYbpruyZdoK5qeZHMVcTgGh3g2CiU9X0FdA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Source-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Source-1.html",
+          "hash": "ONkkhh8uoFz1xUl8oa2jGCjkXsj0RrKV2Hq9eVkvl2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.SourceAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.SourceAttribute.html",
+          "hash": "uyStTEzii5djUap1f6KUOGAkjNVxpRQaMbkVfH9vbyc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Transform-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Transform-2.html",
+          "hash": "DbCJi16O9tXrTgDrKrvn+cmcsmmfbmFjLVxfv3pKkYE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.TypeVisualizerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.TypeVisualizerAttribute.html",
+          "hash": "8atQ/MzSkHxh3EX+MyTLeqkfOLoRpURKAqXepqlgaoc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.UnidimensionalArrayConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.UnidimensionalArrayConverter.html",
+          "hash": "T7uZ1HLKORzZSYZq+tN+L567i9WUXMbCcx8oWUzHkvM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WindowCombinator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WindowCombinator.html",
+          "hash": "qOoZCTPehl4PI1M/rVarI0LRbpNocBDtUKTCDt8BEJg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowBuildException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowBuildException.html",
+          "hash": "cg2v2zIgnJbeSbqR/k/MhhUoC9e1Cbn4Xm5JKQz6mn4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowBuilder.html",
+          "hash": "vx0s//oe2tBHvsGqx/v27Ljz2eHJmKbot633ayREsGM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowElementCategoryAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowElementCategoryAttribute.html",
+          "hash": "UUaK1E0kt1QizN8ARV87E9BQLlnXKXsAPCaIF/r4SOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowElementIconAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowElementIconAttribute.html",
+          "hash": "VDSSWkE3QV5oKXBzP4J1kQioXTHaBNK3oDQ3CBN+ajE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowException.html",
+          "hash": "+/bpSKy8GY0GYxx2l1n45kFjPZx0+YqNuOn47YcENpw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowMetadata.html",
+          "hash": "dpHXThXb7AzePMYgJnJ1JiyOB/Mj1VWn589PlTuMYKk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowNamespaceIconAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowNamespaceIconAttribute.html",
+          "hash": "llV+WZ18YjUECzyH6+aAGgZvl/rrP5fKkpLzTIQe7pc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.WorkflowRuntimeException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.WorkflowRuntimeException.html",
+          "hash": "AC6yECNhqLEUn6nuJ92cdtQtXb56lVtlnEoKZDsPaWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.XmlNamespacePrefixAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.XmlNamespacePrefixAttribute.html",
+          "hash": "HbDXC12mDbixSzxNO2BAZOWOnjT588QUAg0UQ3RJxso="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.html",
+          "hash": "VpOG8TnWhqt5rFmaHv5r696Shtq9IFZqML8OWG8LGKY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "Fsnls7JiKu7fNllDfNYAO+ZGlXlnwjuoXxtQcfnEHr8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "LjX7a+ViF2XE3xPQ/6145XF+8Aq45H0RJUz25as0SpI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "J16tPljbCW5UQZHXkCSKEgj/ndCORtU7lIyC3KiEN9I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "1yxUXNNDa4gIzbXwZEyUZPt5S0KG3EB0RNY8tx60ddU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
+          "incrementalPhase": "build",
+          "total_file_count": 247,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
