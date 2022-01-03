@@ -28,16 +28,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="18.875"
-     inkscape:cy="-8.8125"
+     inkscape:cx="18.8125"
+     inkscape:cy="20.1875"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1735"
-     inkscape:window-height="1033"
-     inkscape:window-x="18"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      units="pt"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -79,7 +79,7 @@
      transform="translate(0,1.7166137e-5)">
     <g
        id="g828"
-       transform="matrix(1.6888889,0,0,1.6888889,0,1.1825562e-5)">
+       transform="matrix(1.0848,0,0,1.0848,9.0613333,9.0613348)">
       <circle
          style="fill:#ec2227;stroke-width:2"
          id="path1206"
