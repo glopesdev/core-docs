@@ -94,7 +94,8 @@ can be combined with dynamic property mappings. This is an abstract class.</p>
     <div class="level2"><a class="xref" href="Bonsai.Expressions.VariableArgumentExpressionBuilder.html">VariableArgumentExpressionBuilder</a></div>
     <div class="level3"><span class="xref">CombinatorExpressionBuilder</span></div>
       <div class="level4"><a class="xref" href="Bonsai.Expressions.CombinatorBuilder.html">CombinatorBuilder</a></div>
-      <div class="level4"><a class="xref" href="Bonsai.Expressions.SourceBuilder.html">SourceBuilder</a></div>
+      <div class="level4"><a class="xref" href="Bonsai.IO.CsvReader.html">CsvReader</a></div>
+      <div class="level4"><a class="xref" href="Bonsai.IO.CsvWriter.html">CsvWriter</a></div>
   </div>
   <div classs="implements">
     <h5>Implements</h5>
@@ -129,12 +130,6 @@ can be combined with dynamic property mappings. This is an abstract class.</p>
     </div>
     <div>
       <a class="xref" href="Bonsai.Expressions.ExpressionBuilder.html#Bonsai_Expressions_ExpressionBuilder_GetElementDisplayName_System_Object_">ExpressionBuilder.GetElementDisplayName(Object)</a>
-    </div>
-    <div>
-      <a class="xref" href="Bonsai.Expressions.ExpressionBuilder.html#Bonsai_Expressions_ExpressionBuilder_SelectMembers_System_Linq_Expressions_Expression_System_String_">ExpressionBuilder.SelectMembers(Expression, String)</a>
-    </div>
-    <div>
-      <a class="xref" href="Bonsai.Expressions.ExpressionBuilder.html#Bonsai_Expressions_ExpressionBuilder_GetArgumentAccess_System_Collections_Generic_IEnumerable_System_Linq_Expressions_Expression__System_String_">ExpressionBuilder.GetArgumentAccess(IEnumerable&lt;Expression&gt;, String)</a>
     </div>
     <div>
       <a class="xref" href="https://docs.microsoft.com/dotnet/api/system.object.equals#System_Object_Equals_System_Object_">Object.Equals(Object)</a>
@@ -196,38 +191,6 @@ with the specified argument range.</p>
         <td><span class="parametername">maxArguments</span></td>
         <td><p>The inclusive upper bound of the argument range.</p>
 </td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="properties">Properties
-  </h3>
-  
-  
-  <a id="Bonsai_Expressions_CombinatorExpressionBuilder_PropertyMappings_" data-uid="Bonsai.Expressions.CombinatorExpressionBuilder.PropertyMappings*"></a>
-  <h4 id="Bonsai_Expressions_CombinatorExpressionBuilder_PropertyMappings" data-uid="Bonsai.Expressions.CombinatorExpressionBuilder.PropertyMappings">PropertyMappings</h4>
-  <div class="markdown level1 summary"><p>Gets the collection of property mappings assigned to this expression builder.
-Property mapping subscriptions are processed before evaluating other output generation
-expressions.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">[Obsolete]
-[Browsable(false)]
-public PropertyMappingCollection PropertyMappings { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="Bonsai.Expressions.PropertyMappingCollection.html">PropertyMappingCollection</a></td>
-        <td></td>
       </tr>
     </tbody>
   </table>

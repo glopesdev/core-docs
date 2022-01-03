@@ -938,53 +938,6 @@ been replaced by their decorated children.</p>
   </table>
   
   
-  <a id="Bonsai_Expressions_ExpressionBuilderGraphExtensions_InspectErrors_" data-uid="Bonsai.Expressions.ExpressionBuilderGraphExtensions.InspectErrors*"></a>
-  <h4 id="Bonsai_Expressions_ExpressionBuilderGraphExtensions_InspectErrors_Bonsai_Expressions_ExpressionBuilderGraph_" data-uid="Bonsai.Expressions.ExpressionBuilderGraphExtensions.InspectErrors(Bonsai.Expressions.ExpressionBuilderGraph)">InspectErrors(ExpressionBuilderGraph)</h4>
-  <div class="markdown level1 summary"><p>Redirects any build or execution errors signaled by <a class="xref" href="Bonsai.Expressions.InspectBuilder.html">InspectBuilder</a> nodes in
-the specified expression builder workflow into an empty observable sequence.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">[Obsolete]
-public static IObservable&lt;Unit&gt; InspectErrors(this ExpressionBuilderGraph source)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="Bonsai.Expressions.ExpressionBuilderGraph.html">ExpressionBuilderGraph</a></td>
-        <td><span class="parametername">source</span></td>
-        <td><p>The expression builder workflow for which to redirect errors.</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  <h5 class="returns">Returns</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="https://docs.microsoft.com/dotnet/api/system.iobservable-1">IObservable</a>&lt;<span class="xref">Unit</span>&gt;</td>
-        <td><p>An observable sequence with no elements except for error termination messages.</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  
-  
   <a id="Bonsai_Expressions_ExpressionBuilderGraphExtensions_InspectErrorsEx_" data-uid="Bonsai.Expressions.ExpressionBuilderGraphExtensions.InspectErrorsEx*"></a>
   <h4 id="Bonsai_Expressions_ExpressionBuilderGraphExtensions_InspectErrorsEx_Bonsai_Expressions_ExpressionBuilderGraph_" data-uid="Bonsai.Expressions.ExpressionBuilderGraphExtensions.InspectErrorsEx(Bonsai.Expressions.ExpressionBuilderGraph)">InspectErrorsEx(ExpressionBuilderGraph)</h4>
   <div class="markdown level1 summary"><p>Redirects any build or execution errors signaled by <a class="xref" href="Bonsai.Expressions.InspectBuilder.html">InspectBuilder</a> nodes in

@@ -14,11 +14,527 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.AnalogInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.AnalogInput.html",
+          "hash": "+KX5OPGgGGlwbvtgMxniUXzA5LuSQDsp3uL6ExMm37A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.AnalogInputReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.AnalogInputReceivedEventArgs.html",
+          "hash": "o3HRhaObhR93VncEMLdlh7UEw4TSzoguhj4GHd2C9cg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.AnalogOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.AnalogOutput.html",
+          "hash": "J7OY8Af0FmLLri95IR8CibzSfqXBMTEd1iaO3XACpvY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.Arduino.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.Arduino.html",
+          "hash": "Js/Be2BSEplgneHmZ4Iolh+/+cBnTl9nIvEZtypd2V4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.ArduinoConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.ArduinoConfiguration.html",
+          "hash": "1NYT880RB7SbyXbk/kBTQ3oOVGtNXAujJafxsnPtpOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.CreateArduino.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.CreateArduino.html",
+          "hash": "vMR3fOVUGlteftKmX59UFuM3C1xopuFByCcVBWy4OVc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.DigitalInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.DigitalInput.html",
+          "hash": "EYn81OxCjwRHLlOpEGMbAt8s+TMZKAkvZ1QM+W1iDtM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.DigitalInputReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.DigitalInputReceivedEventArgs.html",
+          "hash": "T++LlFW+38pvUsS/bXo3sg0FV9xIG6whdyMPDyCTbu4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.DigitalOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.DigitalOutput.html",
+          "hash": "IXgZj8A4WsQSw0EKxt8OnNfzug8Yi+u5QnBbxIm3Vlk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.I2CRequestMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.I2CRequestMode.html",
+          "hash": "fk8eHjC0qPI5P1sqhpP2Ggev21XJGOQMDJX7FFjeLOI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.InputPullUp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.InputPullUp.html",
+          "hash": "dC5m+NYEdLJfrjpNkItRq6eXDa+9wzUp7eu82qupWaU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.PinMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.PinMode.html",
+          "hash": "XJzldSlVF9eKhVTivI3dNgvfbis7zxbiOTj4mjfqtrY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.ReceiveSysex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.ReceiveSysex.html",
+          "hash": "sfMkhLIIl8aCQMyhzoh1a/B4Vh70HZhXW08A9/MFahs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.SendSysex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.SendSysex.html",
+          "hash": "LcsvppBCrumhvUsV7b/7Nzc+gL6guzJqo5q01/uuY50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.ServoOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.ServoOutput.html",
+          "hash": "/t+fSyfkenS2SmVrecdSsLrwjt1Wgb4DqEhI1rBu+1M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.SysexReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.SysexReceivedEventArgs.html",
+          "hash": "IVcE2idtkRNlbi26jhG451EQ+6zz9cqfymxoEQ3Od90="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Arduino.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Arduino.html",
+          "hash": "DdjXgW7u82AZhj0Hiiu6EnFvMoS5LwsdBdbDoKxxfJ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Bonsai.ArrayConvert.yml",
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.ArrayConvert.html",
           "hash": "mww57WguJWHfJWqUSw/OaDNJVlBgmNijIMuvAkCz37k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioCapture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioCapture.html",
+          "hash": "humlBBO+REFDgpdRsZEYebbIyXnPQW6hnNVDFZi1F48="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioContextManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioContextManager.html",
+          "hash": "SveVGwlPHi3mVH+tKrgcEnsbE7ywnATw/Z6ZFqKRKdU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioPlayback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioPlayback.html",
+          "hash": "rvNcK7e1lxZCCOfg4fjyNNemg/xxqdHBYBJDMzy0SQc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioReader.html",
+          "hash": "XmPT0zFnydRx0ThLkrN8bgmjnNFueUuDn3quxBCBygc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioResources.html",
+          "hash": "cNql/Ai6Nu+wtTifFCaNodnc/KKWmr1urhOEnRcKW6M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioSource.html",
+          "hash": "TFJt8hy50KXSHDIIDGP5vVAVQiPZxTMu1f1lSQ3cFuI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.AudioWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.AudioWriter.html",
+          "hash": "9sfqWEhFJNqfrJ5JpW6InsNSAiNfJoQybuuMv+GvIxU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Buffer.html",
+          "hash": "sgCU/9MlNp2VMr52K8CCkq34YEbO/teG9O+wNWpH1ao="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Configuration.BufferConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Configuration.BufferConfiguration.html",
+          "hash": "OKqUcx1+9Y+weI+qdtlkBXoYv9jqZWk5jFSFuOVQdEg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Configuration.BufferConfigurationCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Configuration.BufferConfigurationCollection.html",
+          "hash": "0ZRBxvQSvivHBAwdazxH/HySCkEo41HLj8ZRm3sWbOw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Configuration.SoundBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Configuration.SoundBuffer.html",
+          "hash": "Elxsf0COJW2RZQqvtm9eCx/+3r0SHQTJfqahqig5QWk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Configuration.SourceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Configuration.SourceConfiguration.html",
+          "hash": "eFVL5Ar3wW3otLXgVHaAEOwvtxEHchk2FvBEUZEk7MU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Configuration.SourceConfigurationCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Configuration.SourceConfigurationCollection.html",
+          "hash": "KsQ4PfiqJjegEZQov+ssCPA38dADDElFFEMwVPuPvgo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.Configuration.html",
+          "hash": "THg7qaXzOUoFqSmsTzg+zVN8KCaB/MeOH63mqt7EPF4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.CreateAudioContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.CreateAudioContext.html",
+          "hash": "qwOXUDqLoKe6IcfJqQf5gAo4X7MdcIjCbfwzaQtCbkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.CreateSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.CreateSource.html",
+          "hash": "QTbtxGPpWEBY/oIQ2rdDFVFbf1hbu/WRl7GsyOFU25g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.PauseSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.PauseSource.html",
+          "hash": "73bzpQgVKhmVR1pHbTh9Ecaq/UZbJjjmj8EwUPb2iLs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.PlaySource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.PlaySource.html",
+          "hash": "WDh1s6nu9kA7VEdbxjd1k0YhF2nk/ZB255ZKunVeH5o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.RewindSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.RewindSource.html",
+          "hash": "xrNOvsaxz59kOxbgbysMSgBh721Xb/zx+/HDdM09uBk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.RiffWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.RiffWriter.html",
+          "hash": "oa6gGsPoYsk97+qg+CSo14fceuPuPVJrUmSTlgQEzvI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.StopSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.StopSource.html",
+          "hash": "i0g/iQw996AvcsBQER7y3+8aH4UoqnWvN7QpULjISbs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.UpdateBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.UpdateBuffer.html",
+          "hash": "YRR/QPiTEgzaWg9d7TkBHtUM+GheZJH0TRRbqJ1lwzw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.UpdateListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.UpdateListener.html",
+          "hash": "z1ZGHXIGufvu1mS8sKFUnc2EZf5J/844TxvRKbkhIq4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.UpdateSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.UpdateSource.html",
+          "hash": "gX0ruosJBNF3OGRShP0W6I8MqV8A1/Q8TlgN82N4Cdw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.UpdateSourceState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.UpdateSourceState.html",
+          "hash": "Zi035/4yxWUSYkbGK6ok83w6qlo9AYff98J4hrudHLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Audio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Audio.html",
+          "hash": "Ki8rx4Dfor7Ys+iAEUwDumZIHqI25+MLs8HUszkkluE="
         }
       },
       "is_incremental": false,
@@ -54,7 +570,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Combinator-2.html",
-          "hash": "av5W8wfMmWeXgQJQTVgtO/tHD9iyfHKa/Bpeh962hiM="
+          "hash": "upsbtUX6HGigf5NMgcUmWe3IXgK5ZqnIYNq9dZPK8ow="
         }
       },
       "is_incremental": false,
@@ -90,19 +606,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Dag.DirectedGraph-2.html",
-          "hash": "ogDvwj5Tb6Wq1xKRSE0onWtqTycHtplfe5UcacEjueo="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Dag.DirectedGraphDescriptor-2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Dag.DirectedGraphDescriptor-2.html",
-          "hash": "Zvv17AUd/mwnjOzAznyUb4nJ21imLhzHfZU/2zWUxyg="
+          "hash": "rvTO3KnhLVAvk7W6TobzGco1ac7aa1ZE5ShIL+yDAgw="
         }
       },
       "is_incremental": false,
@@ -114,7 +618,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Dag.DirectedGraphExtensions.html",
-          "hash": "lO6dNN/N6A6ALn+T1D9IMzUSRf6aQLiqd8+zJ1mbTpQ="
+          "hash": "LQsRGquPJQzEpvYs0XoI0N0s3hJ5EYZbwASIcwT6ObU="
         }
       },
       "is_incremental": false,
@@ -186,7 +690,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Dag.html",
-          "hash": "B+FW8QYdDJaXPkJtjoJA43Nkr3SmSmlvHvU2d5Cd+aI="
+          "hash": "0teBkJddboFUI/3+HojykmbGB4QMmyI7m+k72gMx5AQ="
         }
       },
       "is_incremental": false,
@@ -234,7 +738,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.AddBuilder.html",
-          "hash": "CUsSPX+X0MNwQTg92ujhRPa3PssA5Yr+W1bShjRZM2k="
+          "hash": "Q7vIcLK6bs135Ag1+NexEBfsT9feaKiP+t5NO9Au1AQ="
         }
       },
       "is_incremental": false,
@@ -246,7 +750,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.AsyncSubjectBuilder-1.html",
-          "hash": "OMfIT8yXM98Xf8CIYqyn76iv9f8tWdZUIqSEcGt4A10="
+          "hash": "jTiRJx/YUZknaNI4BpXIHZfx6QDRqk6tzrOIFBUhHyM="
         }
       },
       "is_incremental": false,
@@ -258,7 +762,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.AsyncSubjectBuilder.html",
-          "hash": "ky+okNerhA/sSVuZbxZt9cO3zOFZCdNHgeQf1I4HdhQ="
+          "hash": "AESjxhE5qnHiGzQRu/wBA28Tn0wHkrtTpcJzTMRs4Oo="
         }
       },
       "is_incremental": false,
@@ -270,7 +774,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.BehaviorSubjectBuilder-1.html",
-          "hash": "OAQPaWVDXO60Cz/RCPPvLWviFXD9b8IuYy8YneHPe78="
+          "hash": "lhGlxfHQ8cb8ygswyQWCWuKE0JZDK/j+9omyvobC4P4="
         }
       },
       "is_incremental": false,
@@ -282,7 +786,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.BehaviorSubjectBuilder.html",
-          "hash": "/1cSVmaF1Koo9DiUV3GfNjlaHfoZUQQkZtbgpBRIn7M="
+          "hash": "CNXykDIf0wiV48ykWghT+ygcd4gspkESEItMhjA1Uu0="
         }
       },
       "is_incremental": false,
@@ -294,7 +798,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.BinaryOperatorBuilder.html",
-          "hash": "gKfz4vgqcqBC2WC6tRtynT99Jy4O4iP1wiDLwoyw8HQ="
+          "hash": "0mMmkOIUnzt3QBde+YbjL4T3wg3qFHQK9CgYIgG7LR8="
         }
       },
       "is_incremental": false,
@@ -306,7 +810,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.BitwiseAndBuilder.html",
-          "hash": "XfdQph2mm4u08+/Ji3iLcH5kJy1il4AT9bMr560C7kA="
+          "hash": "6a6q6/3IWXVUX7iv05GaoJHfoGTxd1KMjeq7+XQSbn0="
         }
       },
       "is_incremental": false,
@@ -318,7 +822,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.BitwiseNotBuilder.html",
-          "hash": "ZhaqbgU1AeAot4XY/73imQbrY3Q+6YPLF2ylUayBSLk="
+          "hash": "B22RZX0q2S+nlI6GuBIOTB3aSXnl16jL+xiHD8KWJag="
         }
       },
       "is_incremental": false,
@@ -330,7 +834,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.BitwiseOrBuilder.html",
-          "hash": "ALrB5gA0QUi/J+kPNfiMPu2WsFEBPrMxxYl2lqfhm4I="
+          "hash": "hKff2zsyGzgHG3Y/4g/KMZKuTdhK5xI55VPtvEiTQZ8="
         }
       },
       "is_incremental": false,
@@ -366,7 +870,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.CombinatorBuilder.html",
-          "hash": "2sRCZci+9t25WKIAJJ2TK+zvWm6ZVgc0ACw/zLJBmIM="
+          "hash": "FsJ+IzNAYPQF5tBOMDWtgprd1rdHcxmGy+07RcHUXdY="
         }
       },
       "is_incremental": false,
@@ -378,7 +882,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.CombinatorExpressionBuilder.html",
-          "hash": "YTK9DWhgvER1lsSXOOC9+ounPsxdkYfqoMQ2YYBGRRo="
+          "hash": "H+yLWMUuw1TVYoqMAyyqeHyhO9H8D5nBwFphO6NLmYg="
         }
       },
       "is_incremental": false,
@@ -390,7 +894,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ConditionBuilder.html",
-          "hash": "itvWWZ5qLaW6V+uT2MKcZ3w4YSNY7ylWerMB4/hxBqc="
+          "hash": "gl8b1GVhoFpn1zoB+H2xC0zudPcZ7/kcvbXz5QUnDlo="
         }
       },
       "is_incremental": false,
@@ -402,7 +906,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.CreateAsyncBuilder.html",
-          "hash": "vHPEum1ikKLWZoRkNMr7sxHl0+6VpOo4CrZHTlTTJ+o="
+          "hash": "P67gY4OayQx7yHmjyj1iBQYqMAaQEFLcMlmPkYCqQho="
         }
       },
       "is_incremental": false,
@@ -414,7 +918,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.CreateObservableBuilder.html",
-          "hash": "Ra8+hnIbduZ0Zl/d5jTA1x4PAa89tc/3PYIuBydmp6k="
+          "hash": "bCUoRZabWka06+FBfNMcE53Z0PUd6yCI5dySmc/PyFU="
         }
       },
       "is_incremental": false,
@@ -450,7 +954,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.DeferBuilder.html",
-          "hash": "zRCkbDPb8eQicHmR0SMm6v1L76Yz8fQ2Be6korkVUCc="
+          "hash": "DDxYiQ8n5VCGA3LSJApFvz/Lc2Oqv2aEpmGdsgJMF5o="
         }
       },
       "is_incremental": false,
@@ -462,7 +966,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.DisableBuilder.html",
-          "hash": "9QERvnqS0NYGJrjAMNwI6aY6KbKLtRttZrqJZ3QlrtM="
+          "hash": "cG3iPT8JFirRdTKlgR0LaJPPAYrRbwnvL8syc4JOyCM="
         }
       },
       "is_incremental": false,
@@ -474,7 +978,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.DivideBuilder.html",
-          "hash": "qZG6vh/Y/Qiknul02gAN8gMLkzGrNGpveLbPbQUMBH8="
+          "hash": "S20YmaThyViT9dlBLnQevq0t8A70EuB1P+b30vayTsE="
         }
       },
       "is_incremental": false,
@@ -498,7 +1002,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.EqualBuilder.html",
-          "hash": "RoMmokZhIJ2xqwV9c0HLALgdfrzyj0C+qKSDebX9r8M="
+          "hash": "s7V5N0jYPOGWUvEEYRV3tjULT7fDtz5Evavz6Mk+q/s="
         }
       },
       "is_incremental": false,
@@ -510,7 +1014,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ExpressionBuilder.html",
-          "hash": "u4tyR77C7gW4+FCHeVkLSpBylTga20zAE769GI0JuTU="
+          "hash": "GEcbvZu4mHwfIbMLfn69+L7cPOHVkYB3gR/cQ17rmM4="
         }
       },
       "is_incremental": false,
@@ -546,7 +1050,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraph.html",
-          "hash": "BRixqF0dc71wj0C7Vn0Dq+S1a4H4FM32SDTP7OuCqpc="
+          "hash": "yLco86mjDyLtB8OzB3HFb8wz/hmusvFOefbpb+t2ZBU="
         }
       },
       "is_incremental": false,
@@ -570,19 +1074,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ExpressionBuilderGraphExtensions.html",
-          "hash": "OZ57bWkjV3dp1wcl77IgrqNH/MvfsGwE2GcBsYonvjg="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Expressions.ExternalizedDateTimeOffset-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Expressions.ExternalizedDateTimeOffset-1.html",
-          "hash": "8RI16LTIjI1ODOXAk121xnEgs4YYEI313/bcpCdlkuo="
+          "hash": "YtwGh77pTb1aAG3Xgw7OC4GEd5KiHaFqPewHJH2ppDc="
         }
       },
       "is_incremental": false,
@@ -606,7 +1098,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ExternalizedMappingBuilder.html",
-          "hash": "RR6505gJgtb7HRrLWxZUkGhcUo/RhwCFehTg9CUyulI="
+          "hash": "VjvAHL6IBAiAb7c4c/Sl/t/XcCIpeY9w4DXHY9w12X0="
         }
       },
       "is_incremental": false,
@@ -626,35 +1118,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Expressions.ExternalizedProperty-2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Expressions.ExternalizedProperty-2.html",
-          "hash": "Jon+r+4Q/FDIYc3mmr2U7dkR8MWam5dfXchGbYQIuTc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/Bonsai.Expressions.ExternalizedProperty.yml",
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ExternalizedProperty.html",
-          "hash": "+Pv0AZi/gcCQVScRaJHDxfcjNtYgHOQ0bwHOczrBAtI="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Expressions.ExternalizedTimeSpan-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Expressions.ExternalizedTimeSpan-1.html",
-          "hash": "g4gqnJbTWwMsIo6Vh12joo0W8L5Hnr7papOBBKuZqf4="
+          "hash": "KKxCWr0+e/+2Lj7ihjFwgMUTPUXHCM6336KL8Th7Se4="
         }
       },
       "is_incremental": false,
@@ -678,7 +1146,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.FormatBuilder.html",
-          "hash": "Ua4JAqP7AgKNzVFeBnh87ssQdiZE97CDlk4TPNC0gNg="
+          "hash": "mPf+LGkUkcDKIQY9DNL7kElz9uJn1uL9dFa6WI3jW6M="
         }
       },
       "is_incremental": false,
@@ -690,7 +1158,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.GetValueOrDefaultBuilder.html",
-          "hash": "uNCMwYDPKxanWZ9V3BEgP7zooKng+oiJusst+ThBSaY="
+          "hash": "AhJWOd78m9rFj48pJOfzma+Hwar8EDCsLpNFjQXsqgU="
         }
       },
       "is_incremental": false,
@@ -702,7 +1170,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.GreaterThanBuilder.html",
-          "hash": "e1kZjAbqL8fiBN00nv0CT4fQ3EAuG1UhwJ/rDfaQV/Q="
+          "hash": "iAKWrQl5azcW0sr9sFnWf1EzHNhaWv2D62gs+cjt55U="
         }
       },
       "is_incremental": false,
@@ -714,7 +1182,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.GreaterThanOrEqualBuilder.html",
-          "hash": "8zdwm6tGGtMsbxmIeu44VpHlkAmqFLJNfbQLECjZJwQ="
+          "hash": "Zdg+pDRUg+0mk9+rOZCKb02CRq192Vqq+n+dJROlb6M="
         }
       },
       "is_incremental": false,
@@ -726,7 +1194,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.GroupWorkflowBuilder.html",
-          "hash": "fDDUsTEl102XlwVus5yvBkW3oIBmTC3YRntcRlj6DnM="
+          "hash": "vUVgHEkx7dLbVdqTUQXOjr9LtzDGtjnh3PqgHyn/8ko="
         }
       },
       "is_incremental": false,
@@ -750,7 +1218,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.IPropertyMappingBuilder.html",
-          "hash": "xYLfs09F9ofw1HxEUtsZrChkJ417da6KYwQUCskTyk0="
+          "hash": "4vPZkgEF3/jKW+zebO4Xp4gdp3T644uLhMDv1vD0HRE="
         }
       },
       "is_incremental": false,
@@ -774,7 +1242,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.IncludeWorkflowBuilder.html",
-          "hash": "D2bVsWbvdBam+DE/PmsQYcKodK44q9IDSq7/+7MyLYM="
+          "hash": "Xsj07tAA3oiAdblHG3oZ5L0DvNiGw5ttBh/Rk7iWekI="
         }
       },
       "is_incremental": false,
@@ -786,7 +1254,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.IndexBuilder.html",
-          "hash": "sAmlum69H7nnyeEO34jY75oCYjlpFshm0gvMzAdSi/8="
+          "hash": "IdVlQ2IeivzUs1wA8VI5+IAhpFCsvQKZyMjvFprQqHI="
         }
       },
       "is_incremental": false,
@@ -798,7 +1266,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.InputMappingBuilder.html",
-          "hash": "Om/eECaXUtTEOvDLXyodOrJlsK94T5iOLHBDmv/7B/M="
+          "hash": "iRYJYDBpp80W7dSsEVMEv8ytN6jOT7SzeBbrAqRQJeU="
         }
       },
       "is_incremental": false,
@@ -810,7 +1278,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.InspectBuilder.html",
-          "hash": "kfMsEfzkegNTDrqpT4R8JWtktueVMD0bQ0F6NiNMfEs="
+          "hash": "WzvtCFdxNhB/kayqqu6VBd3RZ3N5VdAaktHUlKwKHtc="
         }
       },
       "is_incremental": false,
@@ -846,7 +1314,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.LeftShiftBuilder.html",
-          "hash": "jJykesJMZd/R6IvKVMp1+FxcgdP01EQVwFPJVDLC7Ms="
+          "hash": "GDVHfe4IEILw7q5OqwAl+XJoC5ZOhLjHU33Vr+eqnSI="
         }
       },
       "is_incremental": false,
@@ -858,7 +1326,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.LessThanBuilder.html",
-          "hash": "a6lpgNXV5F9uU1mLZFg3iofL/mrEF9oct7rA83vvRU4="
+          "hash": "dPqxTSALhjsFjph3DK63cfPp67Br2I+8Jlx18GKpDPc="
         }
       },
       "is_incremental": false,
@@ -870,7 +1338,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.LessThanOrEqualBuilder.html",
-          "hash": "Om75VbPyaXdKNrraM6XQGxW6LHEuGB8n/zUQ6Rl8VBk="
+          "hash": "Ax1sytz2KSB/Ga3NnBoTVS1EPB6lBV2/XpLMIY8/bW8="
         }
       },
       "is_incremental": false,
@@ -882,7 +1350,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.LogicalAndBuilder.html",
-          "hash": "MxLhMMisaI7cnlOId6TJ0tFO01RxgJn6XKg2YTvFAIo="
+          "hash": "ppnT4kAQYNn7rgMP/3K6Ls6Il8LA842YKthsO5A17OM="
         }
       },
       "is_incremental": false,
@@ -894,7 +1362,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.LogicalOrBuilder.html",
-          "hash": "lyL59WSHLxSuSG9ttA/EHvHfbM59gX9AbtSWDx9wxpk="
+          "hash": "xsakkYlZL7ovk2AwQLzPYGlqfdoMpNhoWZLJt/Z+kog="
         }
       },
       "is_incremental": false,
@@ -906,7 +1374,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.MemberSelectorBuilder.html",
-          "hash": "wrO4onPbD3xxJF44rdVSreTDG+mAHfe1n1QIbNKyY40="
+          "hash": "M40AQDF+p5OJjbzcfZOpoOFjmW7LXLsDba8vadJoitc="
         }
       },
       "is_incremental": false,
@@ -918,7 +1386,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ModBuilder.html",
-          "hash": "P7ijcNzIlnrOMm8xhZi7hTymGOpvsI6dm1HASa/6FaI="
+          "hash": "RPhtNPXQH2cCe9kTtO9zdFWJlDAo5INbYxU8jp4LdUg="
         }
       },
       "is_incremental": false,
@@ -930,7 +1398,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.MulticastBuilder.html",
-          "hash": "2KlL1MUtm6xT8mIZZ2w4AdExBxyeGhg1RvIfVUaclKI="
+          "hash": "PgQSKpuR9fjWmm+EHcRboKCYn8x/NtjSVaM6b0D+g7g="
         }
       },
       "is_incremental": false,
@@ -942,7 +1410,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.MulticastSubjectBuilder.html",
-          "hash": "rcqoypYpKFXo80/TrXPFkW3nmXUXvUnSGNlFge5Wh8s="
+          "hash": "ec5jz8wjGTp6Ya7ZjU3T0trL/u5P8U4auhhfVUwdo6w="
         }
       },
       "is_incremental": false,
@@ -954,7 +1422,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.MultiplyBuilder.html",
-          "hash": "7RMm0bnmJ1az7767ALxdUCCfO46gByHb/cav836Oo3A="
+          "hash": "2ab9ldLxW+9pa9g6XBHJXT7m5hzEAh4YWWjTbeyDLA8="
         }
       },
       "is_incremental": false,
@@ -966,7 +1434,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.NegateBuilder.html",
-          "hash": "X4un6A7PqAhZJZDm2Tubpgk5kDkz34wWAK2TBpKRivk="
+          "hash": "KANAygf2R3xN0Gli5fhTZqIATBUkdUhzhHpyY8dhpXk="
         }
       },
       "is_incremental": false,
@@ -978,7 +1446,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.NestedWorkflowBuilder.html",
-          "hash": "pdqDn7fA8o/gNT7kxkK0Ntvmac0hQ/35AyhoUqNt7+o="
+          "hash": "d5bC7u904uL+zrnaKHoLNf+NtKjuGMYrTQ/LceBApR0="
         }
       },
       "is_incremental": false,
@@ -990,7 +1458,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.NotEqualBuilder.html",
-          "hash": "963+Idco7Zd+YpbBlSxamLepNQ3Obhy+c0EP6/YYEeI="
+          "hash": "95ZQ62AssWSwRifspNx9MGuSRrIFvgTs8UK63zlD9eM="
         }
       },
       "is_incremental": false,
@@ -1002,7 +1470,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ParseBuilder.html",
-          "hash": "dJC2Avgx2gIXXu3/VATxsJeSwp72jRFawO58zqraJoA="
+          "hash": "Dl+AXY1G3Q7sOiBj/qa3BUq/gPcmy7iq3A6VuABrQBs="
         }
       },
       "is_incremental": false,
@@ -1026,7 +1494,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.PropertyMappingBuilder.html",
-          "hash": "d8Imqk4/c6kSEW+6SgCB2rb9YLQhXimjQ43pOdH2f5U="
+          "hash": "4P06hFUC4u8BiI92EQi/oCtUdXWp8QlhJjVUXLBcumA="
         }
       },
       "is_incremental": false,
@@ -1050,7 +1518,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.PropertySource-2.html",
-          "hash": "I0Mi7mVvnGvpw744TyJnnNoQgsjE4dmO5LpiaJnb1dI="
+          "hash": "t3uJm0Qt9Cd/Uf0TChbtlmsZHTiqwS+F7wk9ypIR+fg="
         }
       },
       "is_incremental": false,
@@ -1062,7 +1530,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.PropertySource.html",
-          "hash": "tPr1piLbW47VOeP/88T3eq3tWEXe0HwMUBdHrd73pfQ="
+          "hash": "Cr2k2sMmCClW7xB8fkrVZiDs+KTfJxh+RMg6PNcEsoY="
         }
       },
       "is_incremental": false,
@@ -1074,7 +1542,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.PublishBuilder.html",
-          "hash": "6S5ADtu4NZwslg+pI/pdfUIm+zT8y4Vj2HBTjD+c81M="
+          "hash": "TjXIUhF97J22+hLG2LCNXV3aybPNP2USzE0AoAlUjHg="
         }
       },
       "is_incremental": false,
@@ -1086,7 +1554,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.PublishSubjectBuilder-1.html",
-          "hash": "/B8HQA6p1pS4nA8j4e/EFW77cdufRNI5tT4Pq/4e3Nw="
+          "hash": "HsH9J3fkLY0yBBp9PZ+OxjBjBJcR9sioqQYtw3o1V/I="
         }
       },
       "is_incremental": false,
@@ -1098,7 +1566,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.PublishSubjectBuilder.html",
-          "hash": "fYGkx0gx2ZeYd0wwqqpLgFz5dcbH7z41vywqjzEeTBo="
+          "hash": "B9MK8U8oPh/s+nIX1VHhogXyJGn3SzOpmY7wPDoIO2E="
         }
       },
       "is_incremental": false,
@@ -1110,7 +1578,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ReplayBuilder.html",
-          "hash": "ylU5Z0418NNJHyl8Z649zmy3ykahyVIgaustsFuEdTk="
+          "hash": "JgkpcQauKM2p8p4+u2tIA4uYmj0u+FU87GeEA7B0HNs="
         }
       },
       "is_incremental": false,
@@ -1122,7 +1590,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ReplaySubjectBuilder-1.html",
-          "hash": "4VM/Z422+IGWysoNmfc4NgC2JXIoC8G/AGVnEXbOhis="
+          "hash": "kMXttbCwek4Mw654mwwz9RdlGJ2rs2BBYx58VNQl4h0="
         }
       },
       "is_incremental": false,
@@ -1134,7 +1602,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ReplaySubjectBuilder.html",
-          "hash": "bVS+2jlInCk1tpIm94ILAh3/sfv8anKHEnzAqSAgluU="
+          "hash": "prSFjpxYn+sTu69iQP4xnFH0Mc/KkrL74YkXfsFD98s="
         }
       },
       "is_incremental": false,
@@ -1146,7 +1614,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ResourceSubjectBuilder-1.html",
-          "hash": "OaXVGE4kuJcvnfgqMs07V2q/3+kMdRqWrexb2QcJ2Ig="
+          "hash": "6T5PCbE3E2rzCvjvi84Y1kFErQXjSaP7J0BCvqA82Qk="
         }
       },
       "is_incremental": false,
@@ -1158,7 +1626,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ResourceSubjectBuilder.html",
-          "hash": "btdQ5TWu9NxiFih6bTsiNz2CA/lHoKnrEbXoQipaJ5I="
+          "hash": "ddocRbI1rTQYN1fZ5Mdu+W0GW0/pdgOnOpLILuJFDOM="
         }
       },
       "is_incremental": false,
@@ -1170,7 +1638,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.RightShiftBuilder.html",
-          "hash": "iGahJa0uu2gJ6mZS3/x+3dKiDYNutidiRwsK5K/FnyQ="
+          "hash": "CGx3wk/uokBR67cCAL93Fhht5PNri8NMOC00kz5WQWc="
         }
       },
       "is_incremental": false,
@@ -1182,7 +1650,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ScanBuilder.html",
-          "hash": "LG5aNuAp0q73zPQEZfXzmFuVTrpgGH8k2uVsCHcAvvc="
+          "hash": "aollXyYH95PvGvKpWmP3Qs/MP9GulrgTNn3PBimYo7c="
         }
       },
       "is_incremental": false,
@@ -1194,7 +1662,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SelectBuilder.html",
-          "hash": "JEbtfWXguBt4j8dxblvnYw6f/0g0KTpfwMEsqYKoecY="
+          "hash": "M9VaoE+VMuiXzY+5nmqTUQbWZ2/HJ0l4WC/vKohu0K0="
         }
       },
       "is_incremental": false,
@@ -1206,7 +1674,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SelectManyBuilder.html",
-          "hash": "NnkZNO5nYQSGm8d6FSelGIcQ1CRKM2cUMUaJdaCS/Qc="
+          "hash": "giRK4ynngse7HQC5vSADZCncJzneRQfyMjfR7ZfZ2SQ="
         }
       },
       "is_incremental": false,
@@ -1218,7 +1686,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SingleArgumentExpressionBuilder.html",
-          "hash": "r7cvwRXIAXS0kujILIFkWkBNlnB5+hTHDxGrXLwHVSI="
+          "hash": "8cdOQzQBKR+zbPxTJCrXxuzdKgLzGNNIk62897U5IY0="
         }
       },
       "is_incremental": false,
@@ -1230,7 +1698,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SingleArgumentWorkflowExpressionBuilder.html",
-          "hash": "2kYl4JBIZgu8AHBv6arupM4OVpx9ph0dgLqE5fx7Xbo="
+          "hash": "OgHe95OW98MsZrb03rDdWlBxVSSwYzNeeZgpGt+ZWvo="
         }
       },
       "is_incremental": false,
@@ -1242,7 +1710,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SinkBuilder.html",
-          "hash": "P+2KPy8qxeW14RH3P4Cn3RKOLUIbNHj7CoOJGUXf9Io="
+          "hash": "P0QjwnCR/KCJtCmwQ2soioRdRceOd10+L3tfGvxOYoo="
         }
       },
       "is_incremental": false,
@@ -1254,19 +1722,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SkipWhileBuilder.html",
-          "hash": "CrtyTyXeRT/1465D1QZdtb/3rF7r8Bs9nCRlZFcfWdM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Expressions.SourceBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Expressions.SourceBuilder.html",
-          "hash": "Pn+2pNhtjaKBveM3pcWhhdWVJSovPDszRAyDjZUTRMo="
+          "hash": "cRd90jJgRyU/qqa+d02nR96WYZXvhH8Fk/n9A2+BAm8="
         }
       },
       "is_incremental": false,
@@ -1290,7 +1746,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SubjectBuilder-1.html",
-          "hash": "wYlbJPn2XPZ+KFxIH0N91CeaShWm9n8pUaIufDQ9Yl4="
+          "hash": "3ysvlbjd3LQxyvF4aBaKxciRI3XYPnT2GVa8ok4+CpY="
         }
       },
       "is_incremental": false,
@@ -1302,7 +1758,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SubjectBuilder.html",
-          "hash": "/iwarAoP86WQBk1kRzJDDE1bFHaynyYm9wzlc1HDid0="
+          "hash": "wOda4NDk04Q9JOoyEgrt92/w14tmO7qiDFS2y3JVcm4="
         }
       },
       "is_incremental": false,
@@ -1314,7 +1770,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SubjectExpressionBuilder.html",
-          "hash": "38sbGD7GWyWcr0LPvSsWPZma8NJRbp8LGHeISkMyyI0="
+          "hash": "DmFbiWEPqCwS3BdkNNDRlsPBFFeD/nLwtJ1ZoIRtRr0="
         }
       },
       "is_incremental": false,
@@ -1326,7 +1782,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SubscribeSubject-1.html",
-          "hash": "Ux4q5n9uPFoDjcvvnhsWBjHgX5MKLEmCA3LhWjZGrAo="
+          "hash": "p8xo52qqypgm2PssQMgIhrdV+4B7Rth/uzuID5kc2jg="
         }
       },
       "is_incremental": false,
@@ -1338,7 +1794,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SubscribeSubjectBuilder.html",
-          "hash": "GiUbhItSeiDsEZzRc7PxTwXWlRXiWAnagFe9SQWyPko="
+          "hash": "d9nLVsVQo9/PKdcMpx0e/prkNWGFd8szRRu3wHf4TuU="
         }
       },
       "is_incremental": false,
@@ -1350,7 +1806,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.SubtractBuilder.html",
-          "hash": "YJx+3EahSVuXRx9YQAmyk8I/lypsq6b1Zw7dz2zkcqw="
+          "hash": "1nCbFoa9QVKYh9Ln+ZL6wcDAZ3d4W8xmSqM7q6bbkjc="
         }
       },
       "is_incremental": false,
@@ -1362,7 +1818,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.TakeWhileBuilder.html",
-          "hash": "ooOgneF8ZQgclNmZUEAY9BwR4zgr6DdM84nYtqKS860="
+          "hash": "cTjFwZTfzE9In7pt+HmLoU1pFBgbfdv/YPkAtDhsUqs="
         }
       },
       "is_incremental": false,
@@ -1410,7 +1866,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.UnitBuilder.html",
-          "hash": "CsiroP7xqSP3N1JRBnqIHUPkT3xmkURGTSQxz9sTNfI="
+          "hash": "W+PDL+dLfn05PZLS8AMC3PRCMRgFzXjsD9beOWOVFrs="
         }
       },
       "is_incremental": false,
@@ -1422,7 +1878,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.UnknownTypeBuilder.html",
-          "hash": "q2a04P1ewklYx9z0oFHmwBJtUAFCBNsdfLzNBRVA1tk="
+          "hash": "L7t/7YwWKd0AXnbLEL1nsfz9jg5nl9cZxTE7D3Xu89I="
         }
       },
       "is_incremental": false,
@@ -1434,7 +1890,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.VariableArgumentExpressionBuilder.html",
-          "hash": "fKtW52/n87HQfWLEt90HJumiM0MIJgBlGNhn/+etZ3o="
+          "hash": "aVFbTjPxF2bsAU0tTGT+dqr6Cypjzi/0HmAqEAnFLSw="
         }
       },
       "is_incremental": false,
@@ -1446,7 +1902,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.VisualizerBuilder.html",
-          "hash": "g/XO9wy5lHKxXDR98cAe2AVY57anWajfYTuhaxZCqJ0="
+          "hash": "WY1/dINi5vRvBypiCru2Qs9xP7MEozsXdLBeIqHgRsM="
         }
       },
       "is_incremental": false,
@@ -1458,19 +1914,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.WindowBuilder.html",
-          "hash": "YTjMJGXWAvovdgI2omWdTFH0YHdQ+ZopM0GUjXZ6RZQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Expressions.WindowWorkflowBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Expressions.WindowWorkflowBuilder.html",
-          "hash": "NmyO8yehitBKPfTWkWi6lA/vMGYyZFtz0ft4An/VxNE="
+          "hash": "XywshhqHZzND/G59qxH4+snPFtjL7M8+13AF/SyGPVw="
         }
       },
       "is_incremental": false,
@@ -1482,7 +1926,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.WorkflowExpressionBuilder.html",
-          "hash": "o9YjZmeoX/OoL/MPh8AY2JeFLjlF+aD/loEijpXoado="
+          "hash": "7dSXtyxWNAHfa2/T46lbzs2E9Kth7WMD6PHVvsX8q+o="
         }
       },
       "is_incremental": false,
@@ -1494,7 +1938,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.WorkflowInputBuilder-1.html",
-          "hash": "ySB9LqVkTDd4hKo/kNFhN1C/xYBOFJ/fT2JB5QP2Meg="
+          "hash": "e+aXuCgKDGWUZDJElIVKILWR3C+TjhrRIY52+jvs+yQ="
         }
       },
       "is_incremental": false,
@@ -1506,7 +1950,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.WorkflowInputBuilder.html",
-          "hash": "D0PdNWLd+0OxcLDaYIwLiFh++G6SogZeP2vwyITeG5U="
+          "hash": "d3ZH8VOZOzpXotjW87Ro8uIZLSetkwjcBPYYFj3+r4I="
         }
       },
       "is_incremental": false,
@@ -1518,7 +1962,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.WorkflowOutputBuilder.html",
-          "hash": "X1EEFJ9qx2y2rucCw6TyCNBD5/NVthWsenpd4YFaA/s="
+          "hash": "1b4ONlpIJCsizbUfYxXTrvJgvtZOlpk6cqwT8HECn+I="
         }
       },
       "is_incremental": false,
@@ -1554,7 +1998,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.XorBuilder.html",
-          "hash": "Xb6pNcUbFhqsjDIHaYlkmcM4zYKdb5vpJt8oRGePI0s="
+          "hash": "yA1zTB2a1K6hAMIHdTr8LkvKCHRklfFiwMQK99ChKxo="
         }
       },
       "is_incremental": false,
@@ -1566,7 +2010,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.ZeroArgumentExpressionBuilder.html",
-          "hash": "kAiqbeF3XAkUAd7q1cYP98HYGoHzee0xW+oEuO/kmm0="
+          "hash": "5+XqRpE73tAnt8BCQJ+Ejnee/ksnFdrZkOJ6jaDxRfI="
         }
       },
       "is_incremental": false,
@@ -1578,7 +2022,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Expressions.html",
-          "hash": "Hl40CrqVjPBTcAoAz1aT/wwqiCgWLd3Z6Zt/46egAFE="
+          "hash": "8X+/0R85At0M5ik4w6sMkUDf2qGTNVlMN7+2xfpUJ+g="
         }
       },
       "is_incremental": false,
@@ -1634,6 +2078,366 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.BaudRateConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.BaudRateConverter.html",
+          "hash": "9t/JM2F0VUqOWAARb1zl0mzu/pM6Fhva9L0q6VZWG5w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.CreateSerialPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.CreateSerialPort.html",
+          "hash": "ZdTYJb+8WO9UgsHc64p5hGmz8OLd8HK811U6an8/YaI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.CsvReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.CsvReader.html",
+          "hash": "n8VddIPmFIi0dv8peOQ+EIeMEt229dAydnpI1r1DBlA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.CsvWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.CsvWriter.html",
+          "hash": "D2oQBVhwgepVvEhUgXPKdDTa/rvcN2SRJd1SiQhY+Ws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.EnumerateDirectories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.EnumerateDirectories.html",
+          "hash": "Bm10SEMVxNUNRbYf05GzdA/6IDj9PvYcsbUdKWyCTHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.EnumerateFileSystemEntries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.EnumerateFileSystemEntries.html",
+          "hash": "y6jMk3BKulJuUn/UhFqHjWx4HlKB8TuGbpEjtsFtee0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.EnumerateFiles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.EnumerateFiles.html",
+          "hash": "fd+BDN+4ydhrKZGGUo1wV5NxyvfUHeO9TZBhyb2LeDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.FileSink-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.FileSink-2.html",
+          "hash": "WmuJjct/boPFXqt0Gcv7Y/SIHHnV7K0SDd9tLFZZ8bM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.FileSink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.FileSink.html",
+          "hash": "15FbqerWgpbIEL6pfwc9Zc0ik/Lp6+7yKuAcLqAPJk0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetDirectories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetDirectories.html",
+          "hash": "ArzdxgT9eqdYI2mP3wPlaVSTkYEnZO63ybVHEAWgkgY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetDirectoryName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetDirectoryName.html",
+          "hash": "DWEpCzXy3XTgnPlMUw7rTQ3Oz1QdGiObriW4I17a6wU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetExtension.html",
+          "hash": "oZGLJfZDq+7Xmv/y8+WDcaV2zNjAKpZB0H63qyaFaYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetFileName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetFileName.html",
+          "hash": "GV+AKGdq0C87GRr37UwMq07ExJGhGwS0zPac2T5Sjvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetFileNameWithoutExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetFileNameWithoutExtension.html",
+          "hash": "Jvnbhm/KHCCL2UgK8SByJZ2fo35s9UcOjbqCUi9o+IU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetFileSystemEntries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetFileSystemEntries.html",
+          "hash": "IKrFwQj6LyWfHlzj2R04MVChYvssA9iaA2kgfVuSCjQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetFiles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetFiles.html",
+          "hash": "2Ct4de58v9FqVHgvnq2RcOARc7lQP+Pxb4Ujoh3PfZw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetFullPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetFullPath.html",
+          "hash": "0O7YUJ7ivtTVxuXfqiTEV1MoDoHP9Z1aeLBS8G8QBgQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.GetPathRoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.GetPathRoot.html",
+          "hash": "K1nnk3TajfeDxpZyLFEmSv8oZUs1wVWT+qFnGvFEAjg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.PathHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.PathHelper.html",
+          "hash": "M0ELCJcnzNvFihhkHsOKGchxD+82IdC/PC5JCUHa52k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.PathSuffix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.PathSuffix.html",
+          "hash": "II0AFkLr8K63TlUwgC/XyI1QbrB5FtTypevRzrJxRKg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.ReadLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.ReadLine.html",
+          "hash": "ArI7NJN9Llq1IIXn3yUYwz6p/HnW6biv0LdEQjABFbo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.SerialPortConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.SerialPortConfiguration.html",
+          "hash": "XKDKS5fndGcEy50ns/gcCztaIq1jDf8LDE5CCnCtmks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.SerialPortNameConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.SerialPortNameConverter.html",
+          "hash": "zf1Is8xC2Yr2Etc8eVFnE9p4zdjrzv2Ze/4M27TJKN8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.SerialStringRead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.SerialStringRead.html",
+          "hash": "WtiOlGByEEE/Bxq8IyWOT3Wbd0H8S7wXvVqca3hinxY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.SerialStringWrite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.SerialStringWrite.html",
+          "hash": "ZgiF4DlO05V6KCs7wpE8V7By3eQiBjHz9Bw8+o/WJCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.StartProcess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.StartProcess.html",
+          "hash": "kvh0EBtUTNon1fo0B1cHJeDX14xf+GiJwAOydSw+I/k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.StreamSink-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.StreamSink-2.html",
+          "hash": "qQ47ocTCtrizwSnlhuFbqFg7SXIDD4XJZZ71LILhPek="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.StreamSink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.StreamSink.html",
+          "hash": "NyxVe3OSzQPiyLdIXjzETCsvVasqXzYRGEcYvhjbUmI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.WriteLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.WriteLine.html",
+          "hash": "T+u5ChlsSoN8VcUtexArfX1pOMFkyWzPr2s2fBpkbDY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.IO.html",
+          "hash": "6VC2rVrNeeRHXNzuPgfGOgKxECSgXJo9QJJXFmiOU0c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Bonsai.MultidimensionalArrayConverter.yml",
       "output": {
         ".html": {
@@ -1650,7 +2454,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.NumericRecordConverter.PropertyDescriptorWrapper.html",
-          "hash": "kDHkLnVhXHeXG1YOYHsijCpQsZBDj1GwX00s7ydL/Gc="
+          "hash": "BM7h/AsEDiKbEZrNBFmYLdqurlIjXzsjrFkUnpzYYW4="
         }
       },
       "is_incremental": false,
@@ -1674,7 +2478,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.ObservableCombinators.html",
-          "hash": "WTGjgd+Vk3gR3xzoo+qSWKPcRfNBIe6wHd3yQCkuBLg="
+          "hash": "9U95kFtzsvFpZnoU/X1zQ6kI1Kdqc7oeiXFOWzCrtHc="
         }
       },
       "is_incremental": false,
@@ -1734,19 +2538,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.Accumulate.html",
-          "hash": "W2XEWPrn86yDN1ph6SZQVPP9PxLvvUbniLBmld2+PcA="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.AccumulateBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.AccumulateBuilder.html",
-          "hash": "YlTivobJFPURfSurb74eDH2P/B8Y+t/9BtXl16iuToo="
+          "hash": "pi4Cwc5j9PteRpq4yyt7kDwGlo0Dbnu6I5dV7rryQSs="
         }
       },
       "is_incremental": false,
@@ -1902,19 +2694,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.DistinctBy.html",
-          "hash": "hJGTSrX0WtlFyXtOhEsjPKlS9wUFupsCSSXCD9uHeCw="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.DistinctByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.DistinctByBuilder.html",
-          "hash": "mk/YDbxTS2fWkextWPpOZQ0WSX//zc7uQM3fEfTCexc="
+          "hash": "9r/Ry1tHFIEIoOYuTAf7RTebutGhX0/fVZ29h3hY3qM="
         }
       },
       "is_incremental": false,
@@ -1938,19 +2718,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.DistinctUntilChangedBy.html",
-          "hash": "3S6jKExciS6QKskFJ+RPt4KpYXfsVp+smwiHUVwlxhY="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.DistinctUntilChangedByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.DistinctUntilChangedByBuilder.html",
-          "hash": "QxdWNr7aF7sRE8h3Krg4jw2HqPqaHzKL22m3ug4O/Jo="
+          "hash": "Qitg1nRW82Kq6e2PTEpbqpyzdI7+unt0N9Z7TdG+N5g="
         }
       },
       "is_incremental": false,
@@ -2058,19 +2826,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.GroupBy.html",
-          "hash": "2Ch6LdPILRDzTV2FXoMqwbvQGtRGa7fTahrttLZhtDk="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.GroupByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.GroupByBuilder.html",
-          "hash": "kFKjudnK5LzaZp+eywclAjRgnTDcCqDXiCC3S5Jg8Zg="
+          "hash": "npeNJWM6fTfkBqpA1i3OIuTcAN4ZqMhR6O8xCI0fmHw="
         }
       },
       "is_incremental": false,
@@ -2083,18 +2839,6 @@
         ".html": {
           "relative_path": "api/Bonsai.Reactive.IgnoreElements.html",
           "hash": "+dHxraALYRpOHcmgvbYiKSmagJcwZ5uw1Tr0CfV7C7E="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.Index.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.Index.html",
-          "hash": "skDqDU3S2U+ikKMR0Z0Qy26Hqs0sdZJp3MisSeM8O2o="
         }
       },
       "is_incremental": false,
@@ -2166,19 +2910,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.MaxBy.html",
-          "hash": "P3ITjDGBwLIvjo9AGB7zTg/5X3P+FfmS+IpOLbpERro="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.MaxByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.MaxByBuilder.html",
-          "hash": "GmbUTh8+UsdPRHezR/y8BDJpy4vPIl/zHSM6R3/TeHg="
+          "hash": "QXV8v3U4U54Y47fs8nvkRyvZlTvQKA74kEnGCKTsmsg="
         }
       },
       "is_incremental": false,
@@ -2214,19 +2946,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.MinBy.html",
-          "hash": "XXDDYqVXg8YK3al2ofa8HeP4K0sIHp/3MczcnCb96jY="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.MinByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.MinByBuilder.html",
-          "hash": "ap5wLl0I82b3IAZRuo5vCfSWP7vfChcgwAc+sl8S/cU="
+          "hash": "l8UcL6W/5AyJuiCD7KNUy1wDuFR5j/KIEhMkWmXpN0Q="
         }
       },
       "is_incremental": false,
@@ -2250,19 +2970,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.OrderBy.html",
-          "hash": "DcL6eK58NZ9HlLw7aLrEM7/l6X06yC6gDA1jnHzH4C4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.OrderByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.OrderByBuilder.html",
-          "hash": "LeF5snf4znzBVSfx7fKAcHiVBCIpt2B97x9s0VKGIAE="
+          "hash": "46dtqsmBuxqr1+dzQT3O0TIlketaeqA54gMbaU/we3E="
         }
       },
       "is_incremental": false,
@@ -2274,19 +2982,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.OrderByDescending.html",
-          "hash": "R249TnOmzlzQOgIIvJ4pJUmkE+BcoPdOiayIftHeujs="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.OrderByDescendingBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.OrderByDescendingBuilder.html",
-          "hash": "HdZ3ezG2HobRPsBkJbAoB1De8ij7eAwJllNGQOIGLVo="
+          "hash": "4P/SxCw0VwWTwppRGupKzywJmtreHOA/1c1Pv18TMl4="
         }
       },
       "is_incremental": false,
@@ -2526,19 +3222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.ThenBy.html",
-          "hash": "IleriyUeUShpS9qNSEAjAaA1mTx3UHGSQYGTNw36xv8="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.ThenByBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.ThenByBuilder.html",
-          "hash": "R6rlV1oYEdu87ObqkYibkOGr5VIWf76PT3TjR+rZonc="
+          "hash": "v1yV06PgbQAaw2QxDYg775mEPJuoX1amNWx69vpH6wY="
         }
       },
       "is_incremental": false,
@@ -2550,19 +3234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.ThenByDescending.html",
-          "hash": "a7QfuhsDgUW1EwwBMBfbtsPh0aH0BFifp701OAkSRwc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Bonsai.Reactive.ThenByDescendingBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Bonsai.Reactive.ThenByDescendingBuilder.html",
-          "hash": "p+4R/mMsDaDr4jXpt7a9F15+3w9bMyL3QH0MrHfEad8="
+          "hash": "H5Oj3hYeM0TEpHZg+yw2mG1IvIuWoqDbVNo/AKF1r/4="
         }
       },
       "is_incremental": false,
@@ -2670,7 +3342,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.ToDictionary.html",
-          "hash": "7yzHiI7niQO+5qQO9xV6d5xkSztjjaCXm18P5J6WBTE="
+          "hash": "EqYSlhmQNpRYNtUkNugUGcAQiEN62WZS67iGOOrElkk="
         }
       },
       "is_incremental": false,
@@ -2694,7 +3366,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.ToLookup.html",
-          "hash": "bpaU30VOsEzbdyC/zUwtOz5GtWWvS5DmleXx4q5w8Cs="
+          "hash": "tS3yyTSQqIzmki1a9rrlLLRg1TdyC//BDQkLxl6Qbfc="
         }
       },
       "is_incremental": false,
@@ -2754,7 +3426,115 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Reactive.html",
-          "hash": "/rhW9RdU9v0BL37OjlWIWEKHBGWnoZbGLRU7HQsRbjo="
+          "hash": "DOdCzTdNWRqy2Ie0gzMGeRzdZwN6SFBIhIlHVL1iy/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.IResourceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.IResourceConfiguration.html",
+          "hash": "Jm5jf1n4TMRJseGcxipIoKi5/ciPLsVdZwa8LKOjJQY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.LoadResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.LoadResources.html",
+          "hash": "zWQJGN7/Z5Ebdn0QxGU3XkqB0hZOzBQxJ7dfyHuAHgQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.ResourceConfiguration-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.ResourceConfiguration-1.html",
+          "hash": "FZs/R8XFKF6wja2xj/BWWahq4pCQ664UeS61/3U1eDE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.ResourceConfigurationCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.ResourceConfigurationCollection.html",
+          "hash": "O5lBWa113W6PueWIB86GyaUlNqEBjMc3qiGevhHSGY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.ResourceFileNameConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.ResourceFileNameConverter.html",
+          "hash": "OvgCJ9O+QyafHOIVQC5NNC/D5AvlvrcpPg7rTCw8a/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.ResourceLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.ResourceLoader.html",
+          "hash": "gwYYVCKAHMxLpKRJBNrSSjivEp7DnFXlY0AM6pvcDdU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.ResourceManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.ResourceManager.html",
+          "hash": "81k8lLSIIfnR/EfwdywfBiloAKZHwg78ZWuRtYGSe0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.ResourceNameConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.ResourceNameConverter.html",
+          "hash": "OS44AM1D0YGc6HbB4zKuYp73INSwDlrbpzppLEMCcrU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bonsai.Resources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bonsai.Resources.html",
+          "hash": "dxovGPp1EfQWRcuqtRHmWSvRJf1Oo5f4KD49VFRpsTU="
         }
       },
       "is_incremental": false,
@@ -2766,7 +3546,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Sink-1.html",
-          "hash": "VHzOmXZMA96EmqncIWdSP4TjCqvuOge/DTDplaVWF8g="
+          "hash": "S/0ok20bBL4B5wVbDkBSjeIUKyofYz3oSr2Gsk/Tjik="
         }
       },
       "is_incremental": false,
@@ -2778,7 +3558,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Sink.html",
-          "hash": "k90wByfwjSzMqqM/ysdnwTnOumsl0lItF99WOdt+QUY="
+          "hash": "SalYAEofe4SeWIbXs0b6jKRpm/ztqaxPS1DGBr5HWdk="
         }
       },
       "is_incremental": false,
@@ -2790,7 +3570,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Source-1.html",
-          "hash": "ZrYnGd1brzEdNaQcV9ENFroP8LeXExQoUXnYef+eDWA="
+          "hash": "qbnm1aqRSH5cZQENhE+kDXDOc0naSE5NpCiiyK2BmPc="
         }
       },
       "is_incremental": false,
@@ -2814,7 +3594,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Bonsai.Transform-2.html",
-          "hash": "nQTeTOK21MpdBo6G0OJQYHPKw3Bs4BsKqLiFzOGvzec="
+          "hash": "OPbI/Dnl78KAqJQ082SjR0tV31zXyJVGbXHY5TEUSoc="
         }
       },
       "is_incremental": false,
@@ -2994,7 +3774,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "LjX7a+ViF2XE3xPQ/6145XF+8Aq45H0RJUz25as0SpI="
+          "hash": "CjY8WABsXo4Cbd+ub0phrKwAo1o8c0SWD+E8EX231h4="
         }
       },
       "is_incremental": false,
@@ -3069,7 +3849,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 247,
+          "total_file_count": 312,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
